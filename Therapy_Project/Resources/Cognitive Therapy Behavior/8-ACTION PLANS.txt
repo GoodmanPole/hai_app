@@ -1,0 +1,480 @@
+8
+ACTION PLANS
+Action Plans (traditionally labeled as “homework”) should be considered an integral, not optional, part of CBT (Beck et al., 1979; Kazantzis et al., 2018; Tompkins, 2004). Remember what we tell clients in the evaluation or first session:
+The way people get better is to make small changes in their behavior and thinking every day.
+
+   In every session, clients need to learn new ways of thinking and acting that they’ll practice at home. Researchers have found that CBT clients who carry out Action Plans progress significantly better in therapy than those who don’t (see, e.g., Callan et al., 2019; Kazantzis et al., 2016).
+   It’s very important that clients experience (and recognize their) success and learn from every Action Plan item. When they do, therapy progresses more quickly and clients have an increased sense of hope, mastery, self-efficacy, and control, and their mood and symptoms improve. When they aren’t successful, they often become self-critical or hopeless. This chapter answers the following questions:
+* How do you set Action Plans?
+* What are various kinds of Action Plan items?
+* How do you encourage clients to set their own Action Plans?
+* How do you increase the likelihood that clients will successfully
+* complete their Action Plans?
+* How can you anticipate and prevent problems in adherence?
+* How can you prepare clients for a potential negative outcome?
+* How do you review Action Plans at the next session?
+* How do you conceptualize and solve problems around completing
+* Action Plans?
+* What kind of beliefs can interfere with completing Action Plans?
+* What unhelpful cognitions might therapists have?
+
+
+SETTING ACTION PLANS
+There is no set formula for assigning Action Plans. How do you and the client decide what would be good for the client to do? It depends on your conceptualization, the client’s aspirations, what you have discussed in the session (which is influenced by your overall treatment plan and the client’s goals), what you and the client think will help most, and very importantly, what the client is willing and able to do. The more depressed clients are feeling at the beginning of treatment, the more their Action Plans should initially emphasize changing behavior (e.g., through activity scheduling). The initial cognitive work often involves modifying automatic thoughts that could interfere with carrying out behavioral Action Plans or gaining a sense of achievement, pleasure, or connection from engaging in the planned activities. As their symptoms improve, you’ll add in an additional emphasis on cognitive change.
+   Good Action Plans provide opportunities for clients to:
+* draw positive conclusions about their experiences and about themselves,
+* educate themselves (e.g., through bibliotherapy),
+* collect data (e.g., through monitoring their thoughts, feelings, and behavior),
+* evaluate and modify (or disengage from) their cognitions,
+* practice cognitive and behavioral skills, and
+* experiment with new behaviors.
+
+
+TYPES OF ACTION PLAN ITEMS
+In addition to scheduling activities, many Action Plans contain the following ongoing activities:
+
+1. Reading therapy notes. After you’ve discussed an issue or problem, you’ll ask clients to summarize or report on what they think is most important for them to remember and to do (pp. 261–264). You’ll often suggest additional ideas to make their therapy notes more robust.
+
+2. Monitoring automatic thoughts. From the first session forward, you’ll encourage clients to ask themselves, “What’s going through my mind right now?” when they notice their mood is changing or they’re engaging in unhelpful behavior. You’ll also ask them to remind themselves that their thinking may be true or not true or not completely true. They may jot down their thoughts (in their smartphone, on their computer, or simply on paper, in a notebook, on an index card, or on a worksheet).
+
+3. Evaluating and responding to automatic thoughts. At virtually every session, you’ll help clients modify their inaccurate or unhelpful thoughts, especially those that interfere with carrying out their Action Plans. You’ll also teach clients to evaluate their thinking on their own.
+
+4. Doing behavioral experiments. To test the validity of negative predictions, it’s often important to collaboratively design experiments that clients can conduct between sessions (or in session). Using Socratic questioning first is often useful, but actually disconfirming predictions out in the world through personal experience usually results in significantly greater cognitive and emotional change (Bennett-Levy et al., 2004).
+
+5. Disengaging from thoughts that are part of an unhelpful thought process (self-criticism, rumination, obsessive thinking, or frequent intrusive thoughts). You might teach clients mindfulness techniques to practice between sessions.
+
+6. Implementing steps toward their goals. You’ll ask clients about their goals for each session and collaboratively decide what steps the client wants to take in the coming week. You’ll also identify obstacles to taking these steps and do cognitive restructuring for potentially interfering cognitions and/or problem solving, and/or skills training.
+
+7. Engaging in activities to lift affect. These activities are usually closely tied to clients’ aspirations, values, and goals, and often promote self-care, social interaction, better management (at home and/or work), and/or a sense of pleasure, mastery, or purpose.
+
+8. Credit lists. Ideally, clients mentally praise themselves and keep a running written list throughout the day of anything they do that’s even a little difficult, but they do it anyway. This task is especially important when clients are self-critical or have core beliefs of incompetence or helplessness. A good rationale for the task is that it helps people regain confidence in themselves and see themselves more realistically. If you give yourself credit throughout the day (as I do), you can use self-disclosure to motivate clients to do the same.
+
+9. Practicing behavioral skills. To effectively solve their problems, clients may need to learn new skills, which they’ll practice as part of their Action Plan. For example, you might teach mindfulness or relaxation, emotional regulation, communication, or organizational, time management, or budgeting skills.
+
+10. Engaging in bibliotherapy. You can greatly reinforce important concepts you’ve discussed in session when clients read about them between sessions. Many clients benefit from reading a few pages in a CBT book for consumers on depression (www.abct.org/SHBooks) or a booklet (J. S. Beck, 2020). These can reinforce important ideas you’ve reviewed in session. Ask clients to make mental or written notes as they read: What do they agree with? Disagree with? What questions do they have? Be careful when suggesting this Action Plan item though. Consider a client’s level of concentration and motivation in suggesting what and how much to read. If they try to read and can’t comprehend the material, they may become quite self-critical or fear your criticism.
+
+11. Preparing for the next therapy session. The beginning part of each therapy session can be greatly speeded up if clients think about what will be important to tell you before they enter your office. The Preparing for Therapy Worksheet (Figure 10.3, p. 178) can help prepare them.
+
+ENCOURAGING CLIENTS TO SET ACTION PLANS
+At the beginning of treatment, you may need to suggest Action Plan items; clients don’t usually know what would be beneficial for them to do. As therapy progresses, encourage clients to set their own Action Plans:
+* “What would you like to do this week [about this issue or to get closer to reaching your goal]?”
+* “What could you do if you start getting uncomfortably anxious?”
+* “How will you handle [this obstacle] if it does arise?”
+
+
+Clients who routinely set their own Action Plans are more likely to continue doing so when treatment has ended.
+
+INCREASING ACTION PLAN ADHERENCE
+Many clients do Action Plans quite willingly and easily; some do not. Even the most experienced therapists encounter difficulty with an occasional client. Nevertheless, you should initially assume that any client (unless he or she is very low functioning) will do Action Plans if you set them up properly. Here are some guidelines to follow:
+* Tailor Action Plans to the individual.
+* Provide or elicit the rationale.
+* Set Action Plans collaboratively; seek the client’s input and agreement.
+* Make Action Plans easier rather than harder.
+* Provide explicit instructions.
+* Set up a reminder system.
+* Begin the Action Plan (when possible) in session.
+* Ask clients to imagine completing an Action Plan.
+
+
+Tailor Action Plans to the Individual
+Action Plans shouldn’t be one size fits all. You and your clients will collaboratively decide what a given Action Plan item should be. When suggesting an assignment, take your client’s individual characteristics into consideration:
+* Their aspirations, goals, strengths, and personal assets
+* Their reading, writing, and intellectual abilities
+* Their preferences
+* Their level of motivation
+* Their current level of distress, symptoms, executive functioning, and general functioning (cognitive, emotional, behavioral, and social)
+* Practical constraints (e.g., time, opportunity, and lack of cooperation by family members)
+
+
+Abe, for the most part, was a motivated client who was willing to work hard to overcome his depression. Initially he accomplished much more between sessions than did Maria, who was highly skeptical that therapy could help and was functioning at a lower level.
+   A reasonable Action Plan for one client may be unreasonable for another. Many clients, like Abe, are able to identify their automatic thoughts in the first session or two and you may suggest having them try to do the same between sessions. Maria, however, didn’t grasp the cognitive model in the first session and, indeed, became slightly irritated when I tried to explain it to her in another way. She said, “You don’t understand; I don’t know what was going through my mind. All I know is that I was very upset!” An Action Plan to monitor her automatic thoughts would have been inappropriate at that session.
+
+Provide or Elicit the Rationale
+Clients are more likely to complete Action Plans when you provide a rationale, so they can see how and why it will help them. You might say, for example, “Research shows that exercise often helps people become less depressed. What do you think about getting more exercise a few times this week?”
+   Asking questions to link Action Plans to their aspirations, goals, and values can motivate clients. Here are some examples:
+* “Why go to the trouble of controlling your behavior when you’re angry?”
+* “What would be the point of asking people if they know someone to fix you up with?”
+* “Why is it important to you to get a job?”
+* “Can you see how speaking up at work could help you feel more selfconfident?”
+* “What would it say about you if you were able to help your neighbors?”
+
+
+Set Action Plans Collaboratively
+Take care not to unilaterally assign Action Plan items. Seek the client’s input and agreement. For example, you might say,
+* “What would you think about [asking your boss to change your work schedule]?”
+* “Do you think it could help if [you read this coping card before you leave the house]?”
+* “Do you want to practice [a particular technique] this week?”
+* “I think if you [get in the shower as soon as you get up], you’ll demonstrate to yourself that [you can take more control of your day]. What do you think? Is this something you want to try?”
+
+Err on the Easy Side
+A typical error made by novice therapists is suggesting Action Plans that are much too difficult for depressed clients, for instance, having them complete a daily thought record immediately after initiating the cognitive model. Remember, they usually lack energy and motivation. Their concentration and executive functioning skills may be impaired. When applicable, break a large task into more manageable parts. For example, you might suggest that clients read one chapter of a layman’s CBT book, spend 10 minutes doing paperwork, or do one load of laundry.
+
+Provide Explicit Instructions
+Much of the time, you’ll guide clients in deciding when, where, and for how long (and sometimes with whom) they should do Action Plan items. Abe and I agreed, for example, that he would go to the bank immediately after one of our therapy sessions and ask for a loan application. He would then spend 15 minutes filling out the application as soon as he came home.
+
+Set Up a Reminder System
+It’s vital to record, or have clients record, their Action Plans every week, starting with the first session. If the Action Plan is recorded in writing, ask clients where they’ll keep it and how they’ll remember to look at it. They can
+* pair an Action Plan with another daily activity (e.g., “How about jotting down what you deserve credit for at mealtimes and right before bed?”);
+* post notes on their refrigerator, their bathroom mirror, their computer, or the dashboard of their car;
+* use their appointment book, device, timer, or computer to cue them (you might suggest that they set an alarm on their cell phone as they’re sitting in the office with you); and/or
+* ask another person to remind them.
+
+
+You can also ask them how they remember to do other regularly scheduled activities, such as taking vitamins or medication. For activities you want them to remember throughout the day (such as monitoring their automatic thoughts or giving themselves credit), they can post sticky notes or set alarms on their phones. Or you can suggest that they wear a rubber band on their wrist, switch their watch to the other wrist, or wear a bracelet they’re unaccustomed to wearing. Each time they notice their wrist, they can remind themselves of the Action Plan.
+
+Begin the Action Plan in Session
+When applicable, suggest that clients begin Action Plans right in the therapy session itself. This gives you an opportunity to assess their capability. If you’d like clients to do worksheets, for example, make sure they can do them in session first; if they can’t complete one with you, it is highly unlikely they’ll be able to do it outside of session. Starting an Action Plan in session also makes it far more likely that clients will follow through at home. Continuing an Action Plan is much easier than initiating one. This is especially critical because clients often describe the hardest part of doing Action Plans as the period just before they start.
+
+Ask Clients to Imagine Completing an Action Plan Item
+Clients are more likely to complete their Action Plans if they visualize a positive outcome. Suggest that they imagine a specific time in the coming week when they’ve just finished a task or activity. Ask them to imagine giving themselves credit. You can discuss various ways of doing this (e.g., “It’s good I did that”; “I deserve credit [for doing that]”; “That’s good”; “This is an important step for me”; “This is going to help me reach my goal”).
+   It’s also desirable for them to visualize and verbalize what was good about the experience, what the experience meant to them and what it said about them, and how they felt emotionally. See if they can experience some of the same positive emotion right there in the session with you (Beck et al., in press).
+
+ANTICIPATING AND PREVENTING PROBLEMS
+It’s very important to predict the kinds of obstacles clients may face in completing Action Plans. To increase the probability of their doing so, there are several things you can do:
+* Check on the likelihood of completion.
+* Anticipate obstacles; do covert rehearsal when indicated.
+* Be alert for clients’ negative reactions.
+* Examine advantages and disadvantages.
+* Change the Action Plan.
+* Make Action Plans a no-lose proposition initially.
+
+
+Check on the Likelihood of Completion
+It’s important to predict potential obstacles when setting up Action Plans. Think about what automatic thoughts or practical problems might get in the way. The single most important question to ask clients to assess the probability that they’ll complete their Action Plan is this:
+“How likely are you to do this, 0–100%?”
+
+Identify Obstacles and Do Covert Rehearsal
+When clients say they are less than 90% sure that they’ll do their Action Plan, you’ll need to find out what could get in the way. On one occasion, Maria was only 75% sure. I asked her:
+“What’s the 25% part of you that thinks you won’t do it?”
+
+I could also ask:
+* “Why are you 75% sure and not 50% sure?”
+* “What could we do to get you from 75% to 95%?”
+* “What are the advantages and disadvantages of doing the Action Plan?”
+
+Depending on your client’s answers, you can:
+* problem-solve,
+* do skills training,
+* help them respond to their interfering automatic thoughts, and/or
+* make the Action Plan easier or optional.
+
+
+   I use several techniques with Maria to increase the likelihood that she will complete an Action Plan item. First, I ask about obstacles. Then I ask her to commit to when she would do it. Next, I use covert rehearsal. I ask her to visualize carrying out the Action Plan, and I help her respond to an interfering thought. I ask her to imagine that she is reading the response. Finally, we talk about what she would like to remind herself to respond to another automatic thought.
+
+Judith: Do you think anything will get in the way of your asking Randy for help?
+Maria: I’m not sure.
+Judith: [getting her to specify and commit to a time] When would be a good time to call her?
+Maria: Saturday morning, I guess, because she won’t be at work.
+Judith: Can you imagine it’s Saturday morning right now? Can you picture it? What time is it? Where are you?
+Maria: Around 10 o’clock, I guess. I’m in the kitchen. I’ve just finished breakfast.
+Judith: Can you imagine saying to yourself, “I really should call Randy”?
+Maria: Yes.
+Judith: How are you feeling?
+Maria: A little nervous, I guess.
+Judith: What’s going through your mind?
+Maria: I don’t want to call her [automatic thought]. Maybe I’ll just try to figure out how to organize my stuff myself.
+Judith: Well, you could do that. Do you think you’d be successful?
+Maria: (Thinks.) No, I guess not. I’ve already tried, and I didn’t know what to do. But she might say she’s too busy or something [automatic thought in the form of a prediction].
+Judith: She might. Do you want to remind yourself about what we just talked about? Calling her is an experiment. That we won’t know what happens unless you call? That if she’s not helpful, we’ll figure out Plan B together? (pause) Would it help to put that on your Action Plan so you can read it a few times between now and Saturday morning?
+Maria: Probably.
+Judith: Okay. Now can you imagine you’re in the kitchen? You’re thinking, “I’ll just try to organize my stuff myself.” Now what happens?
+Maria: I don’t feel like calling her. I guess I should read the Action Plan.
+Judith: Good idea. Where is it?
+Maria: In the top drawer of my dresser.
+Judith: Can you see yourself getting it? Or would it be better to leave it in the kitchen?
+Maria: It’s okay in my dresser. If anyone comes over, I don’t want them to see it.
+Judith: Okay. Can you imagine pulling out the Action Plan and reading it?
+Maria: Yeah.
+Judith: Now, what happens?
+Maria: Probably I remember why I should call her, but I still don’t want to. So I do something else instead.
+Judith: What could you remind yourself at this point?
+Maria: That I may as well call her and get it over with. That maybe she will help. That if I don’t call her then, I may end up not calling at all and miss out on potential help.
+Judith: Good. Then what happens?
+Maria: I call her.
+Judith: And then?
+Maria: Well, she’ll either tell me she’ll help or she’ll say she can’t.
+Judith: And if she can’t, we can figure out what to do next week. (pause) What do you think we should write on your Action Plan?
+This kind of covert rehearsal using imagery helps you discover practical obstacles and dysfunctional cognitions that could hinder the completion of Action Plans.
+
+Be Alert for Clients’ Negative Reactions
+When clients have a negative reaction as you’re setting Action Plans, first positively reinforce them for letting you know. Then specify the problem and establish its meaning to the client. Next, intervene (or if there’s insufficient time, mark the problem for intervention at the next session). In an early session, Maria and I have just finished discussing an Action Plan. I notice that she is looking more distressed.
+
+Judith: Maria, are you feeling a little more upset now? What was just going through your mind?
+Maria: I don’t know . . . I’m not sure this therapy is for me.
+Judith: You don’t think it’ll help?
+Maria: No, not really. You see, I’ve got real-life problems. It’s not just my thinking.
+Judith: I’m glad you told me. This gives me the opportunity to say that I do believe that you have real-life problems. I didn’t mean to imply that you don’t. The problems with your mother and your sister and your feelings of loneliness . . . Of course, those are all real problems, problems we’ll work together to solve. I don’t think that all we need to do is look at your thoughts. I’m sorry if I gave you that impression.
+Maria: That’s okay . . . It’s just, like . . . well, I feel so overwhelmed. I don’t know what to do.
+Judith: Are you willing to come back next week so we can work on the overwhelmed feelings together?
+Maria: Yeah, I guess so.
+Judith: Is the Action Plan contributing to the overwhelmed feeling too?
+Maria: (pause) Maybe.
+Judith: How would you like to leave it? We could make the Action Plan optional, or some of it optional, if you want.
+Maria: (sigh of relief) Yeah, that would be better.
+Judith: What seems hardest to do?
+Maria: Trying to keep track of my thoughts.
+Judith: Okay, let’s write “optional” next to that one. Or should I just cross it off?
+Maria: No, you can write “optional.”
+Judith: (Does so.) What else feels too hard?
+Maria: Maybe calling my friends. I don’t know if I’m up for that.
+Judith: Okay, should I write “optional” or cross it off?
+Maria: Maybe cross it off.
+Judith: Okay. (Does so.) Now, is there anything else bothering you?
+
+When Maria gives me negative feedback, I recognize that I need to strengthen the therapeutic alliance. What might have happened if I didn’t ask for feedback or been less adept at dealing with her negative feedback? It’s possible that Maria wouldn’t complete the Action Plan. (It’s also possible that she wouldn’t return for another session.)
+   I use this difficulty as an opportunity to refine my conceptualization. My flexibility about the Action Plan helps Maria reexamine her misgivings about the appropriateness of CBT. By responding to feedback and making reasonable adjustments, I demonstrate an understanding of and empathy for Maria, which facilitates collaboration and trust. In the future, I make sure she doesn’t feel overwhelmed by Action Plans. And at the beginning of the next session, I reinforce the importance of our working as a team to tailor the treatment and the Action Plan so it’s right for her.
+
+Examine Advantages and Disadvantages
+When clients are unsure they will follow through with an Action Plan item, you might collaboratively decide to look at the advantages and disadvantages of doing it versus the advantages and disadvantages of not doing it (see Chapter 19, pp. 327–329). Then you can ask clients to weigh the items to decide about what is most important to them. When eliciting advantages, find out whether clients predict they would feel relief by not doing the activity or task. If so, you may need to help them appreciate the larger picture.
+
+Judith: What was your mood like when you decided to stay in bed until noon?
+Maria: (Sighs.) Well, first I felt better.
+Judith: And how did you feel when you got up at noon?
+Maria: Pretty bad. I hadn’t done all these things we had talked about doing.
+Judith: So, what do you conclude?
+Maria: I always think I’m going to feel better when I stay in bed, but I usually don’t, not for more than a few minutes anyway.
+Judith: And does staying in bed get you closer to your long-term goals or further away?
+Maria: (Sighs.) Further away.
+
+CLINICAL TIPS
+Sometimes clients reveal ambivalence about the usefulness of an Action Plan. If so, you should acknowledge that you don’t know what the outcome will be: “I don’t know for sure that doing this will help.” Then consider asking questions such as the following:
+* “What will you lose if it doesn’t work?”
+* “What could be the potential gain in the long run if it does work?”
+With some Action Plan items, you can say, “Haven’t you already done the experiment of [not getting up and getting dressed before lunch]? How does that usually turn out? So would you like to try something different?
+
+Change the Action Plan
+If you judge that an Action Plan item is inappropriate or if clients are still unsure they’ll do it, you may need to modify it. It’s far better to substitute an easier Action Plan item that clients are likely to do than to have them establish a habit of not doing what they had agreed to in session: “I’m not sure you’re ready to do this. [or ‘I’m not sure this Action Plan is appropriate’] What do you think? Do you want to go ahead and try or wait until another time?”
+   As illustrated earlier in this chapter, you can also collaboratively decide to make certain Action Plans optional or to decrease the difficulty, frequency, or duration of an Action Plan item.
+
+Make the Action Plan a NoLose Proposition (Initially)
+When creating Action Plans in the first session or two, it’s helpful to stress that useful data can be obtained even if clients fail to complete their Action Plans. Clients who don’t do their Action Plans are then less likely to brand themselves as failures. You might say, “If you get this Action Plan done, that’s good. But if you have trouble doing it, that’s okay—just see if you can figure out what thoughts are getting in your way, and we’ll talk about them next time. Okay?”
+   Sometimes clients fail to do a significant portion of their Action Plan for 2 weeks in a row, or they do it immediately before the therapy session instead of daily. In these cases, you should elicit the cognitions and/or practical obstacles that got in the way and stress how essential it is to do Action Plans daily, instead of continuing to make them a no-lose proposition.
+
+PREPARING FOR A POSSIBLE NEGATIVE OUTCOME
+There are times when you and the client just can’t predict to what degree an Action Plan item will be successful. It’s helpful to have therapy notes in the Action Plan for clients to read if it doesn’t work out the way the client would have wanted. Abe, for example, fears that if he visits his mother, she’ll be critical of him. But he decides to go anyway. We set the visit up as a behavioral experiment and jointly compose the following therapy note for him to read in case her attitude is negative.
+
+If the visit to Mom doesn’t go well, remind myself:
+“I didn’t know whether Mom would be critical or not, but it was worth a try, and I deserve credit for visiting her. I don’t need to take her criticisms to heart. She’s critical toward everyone, not just me. And she didn’t know about my depression, so her criticisms probably weren’t justified. I wish she were different, but the reality is that she probably won’t change. The next time I visit, I can tell her in advance that it will only be for a short while, and I can figure out some activity we can do together to try to get her focus on something else.”
+
+
+
+
+REVIEWING ACTION PLANS
+Before each session, prepare by reviewing the notes and the Action Plan from the previous session. Review the Action Plan with the client toward the beginning of the session. Doing so gives clients the idea that Action Plans are important. Even if a client is in crisis, it’s still useful to spend a few minutes discussing Action Plans later in the session or, in a different case, to collaboratively agree that the Action Plan from the previous session doesn’t apply at the moment.
+   Deciding how much time to spend reviewing Action Plans and discussing whether clients want to continue any given Action Plan is part of the art of therapy. You will spend more time on Action Plans when:
+* they cover an important, ongoing issue or goal that requires further discussion;
+* clients have not completed a task; and/or
+* clients have difficulty drawing conclusions from successfully fulfilling their Action Plans or when they are critical of themselves for not doing a good enough job.
+
+
+   You will often ask clients to read their therapy notes aloud (or you can read them if they’re reluctant). Then ask, “How much do you believe that?” If they don’t endorse their therapy notes strongly, ask, “What part don’t you believe?” or “What don’t you agree with?”
+   When clients have successfully completed an activity or task on their Action Plan, there are several questions you can ask to help them derive positive meanings and strengthen positive beliefs about themselves (Beck et al., in press):
+* “Were you able to give yourself credit for doing that?”
+* “What was good about the experience [e.g., ‘I helped other people’; ‘My family is happy’; ‘I got the job finished’]?”
+* “What emotions did you experience [e.g., ‘I felt good’; ‘I was pleased’; ‘I felt proud’]?” (You can give them a list of positive emotions (p. 229) to help them identify additional positive emotions they may have experienced.)
+* “What did the experience mean to you [e.g., ‘This shows ’; ‘It’s worth putting in the effort’; ‘People seem to like me’]?”
+* “What did the experience show about you [e.g., ‘I can do hard things’; ‘I can take control’; ‘I’m stronger than I thought I was’; ‘I’m a good person’; ‘I’m likeable’; ‘I’m effective/competent/capable’; ‘I’m able to protect myself’; ‘I’m able to make good decisions’]?”
+
+
+You can positively reinforce the client yourself, by saying
+something such as “It’s great that you …. This shows … [about you].”
+   When relevant, ask if clients want to continue this Action Plan item in the coming week.
+
+CONCEPTUALIZING DIFFICULTIES
+When clients have difficulty doing their Action Plan, conceptualize why the problem arose. Was the obstacle related to
+* a practical problem?
+* an interfering cognition?
+* an interfering cognition masked as a practical problem?
+* a problem related to your cognitions?
+
+
+Practical Problems
+Most practical problems can be avoided if you carefully and collaboratively create Action Plans and prepare clients to do them. Covert rehearsal can also help you identify potential obstacles. Most practical problems can be resolved through problem solving and/or skills training.
+   Three common practical problems that don’t necessarily include unhelpful cognitions are:
+1. forgetting the rationale for an Action Plan,
+2. disorganization or lack of accountability, and
+3. difficulty with an item.
+
+These obstacles are discussed below.
+
+Forgetting the Rationale
+Occasionally, clients neglect an Action Plan because they don’t remember why it’s important or how it’s connected to their aspirations, values, or goals. This problem can be avoided by having clients (who have demonstrated this difficulty) record the rationale next to an Action Plan.
+
+Maria: I didn’t do the Action Plan because I was feeling fine this week.
+Judith: Do you remember what we said a few weeks ago—why it’s helpful to practice the mindfulness exercise for 5 minutes every morning, regardless of how you’re feeling?
+Maria: I’m not sure.
+Judith: Well, let’s say you don’t practice the mindfulness exercise for a couple of weeks. Then you have a very stressful week and you find you’re worrying a lot again. How sharp will your skills be then?
+Maria: Not very, I guess.
+Judith: And how important does it feel to you to manage your stress so you can feel more relaxed around other people?
+Maria: It’s still very important.
+Judith: What do you think about practicing mindfulness this week, even if you’re not stressed?
+Maria: I guess I should.
+Judith: Maybe you can also write down why it’s important to you to practice. What other reasons are there for reducing your stress? (pause) Any other problems that could get in the way?
+
+If the rationale doesn’t seem strong enough, you can see whether the client is willing to look at the advantages and disadvantages of doing the Action Plan versus the advantages and disadvantages of not doing it.
+
+Disorganization or Lack of Accountability
+Some clients are more likely to do their Action Plans when they have to mark off a daily checklist. You or clients can draw a simple diagram (Figure 8.1) in session, and they can fill it out each evening. This technique helps clients remember to do their Action Plans and also makes them aware of what they’re not doing. Alternately, clients can write down their Action Plans on a daily calendar or appointment book or in their phone. (Do the first day together in the office, and ask clients to write down the rest after the session.) Later, after completing Action Plans, clients can put a checkmark next to them or cross them off.
+
+CLINICAL TIPS
+When clients’ adherence is likely to be low, you can suggest they call your office to leave a message when they have completed an Action Plan item. Knowing that you expect a message may motivate clients to do it. As with any intervention, you should suggest these possibilities with a rationale and be sure that clients agree.
+
+Difficulty with an Action Plan Item
+If you realize at a subsequent session that an Action Plan item was too difficult or ill defined (common problems with novice therapists), take responsibility. Otherwise clients may unfairly criticize themselves. You might say:
+“Now that we’ve talked about it, I can see that I didn’t explain the Action Plan well enough. [or ‘I can see that it was really too hard.’] I’m sorry about that. What went through your mind when you couldn’t [or didn’t] do it?”
+
+FIGURE 8.1. Sample daily checklist for Maria:
+/ Read therapy notes:
+Mon.
+Tues.
+Wed.
+Thurs.
+Fri.
+Sat.
+Sun.
+
+Make a credit list:
+Mon.
+Tues.
+Wed.
+Thurs.
+Fri.
+Sat.
+Sun.
+
+Do a Thought Record when I’m upset:
+Mon.
+Tues.
+Wed.
+Thurs.
+Fri.
+Sat.
+Sun.
+
+Organize bedroom for 10 minutes a day:
+Mon.
+Tues.
+Wed.
+Thurs.
+Fri.
+Sat.
+Sun.
+/
+
+
+Here you have an opportunity to (1) model that you can make and admit to mistakes, (2) build rapport, (3) demonstrate that you are concerned with tailoring therapy—and Action Plans —to the client, and (4) help the client see an alternative explanation for his or her lack of success.
+Interfering Cognitions
+Whether clients have had a practical problem that posed an obstacle to completing their Action Plans, their difficulty may involve unhelpful cognitions. Some clients need to respond to maladaptive thoughts and beliefs before they’re able to complete their Action Plans. They may believe:
+* “Having to do Action Plans means I’m defective.”
+* “If I try to do the Action Plan, I’ll just fail.”
+* “I shouldn’t have to put in so much effort to feel better.”
+* “My therapist should cure me without my having to change.”
+* “Action Plans are trivial and won’t get me better.”
+* “[My therapist] is trying to control me.”
+* “If I think about my problems, I’ll feel worse.”
+* “If I do Action Plans and get better, my life will get worse.”
+
+
+Below are some strategies you can use for several types dysfunctional cognitions.
+
+Negative Predictions
+When clients are in psychological distress, and particularly when they’re depressed, they tend to assume negative outcomes—as Abe does when considering whether to fill out an application for work. These predictions can interfere with starting or completing an Action Plan. When you find that clients haven’t completed an Action Plan, ask them if they still think the Action Plan is a good idea and then have them predict obstacles to completing it in the coming week.
+
+Abe: I didn’t fill out the job application this week.
+Judith: Do you still think it’s a good idea?
+Abe: (Sighs.) Yeah. I really need to get back to work.
+Judith: What got in the way this past week? Was there a practical problem? Did you have enough time?
+Abe: I had plenty of time. I’m not sure why I couldn’t get myself to do it.
+Then I did a form of covert rehearsal. Make sure you or the client records on the new Action Plan whichever statements seem helpful to the client.
+Judith: Do you think you might have the same problem filling out the job application this coming week?
+Abe: Yeah, probably.
+Judith: Can you imagine doing it? How are you feeling? Abe: Down, kind of tired.
+Judith: What’s going through your mind?
+Abe: I might make mistakes on the application. Then they won’t give me the job.
+Judith: No wonder you were having trouble getting started. In fact, maybe we should have had you start filling it out right here in session. Can we look at this thought—that you might make mistakes? What do you want to be able to tell yourself this week if you have the same thought?
+
+I then made suggestions to make his response more robust. Next, we agree that Abe will spend 10 minutes filling out the application as soon as he gets home from his therapy appointment. (He could spend longer on it if he wants to, but he doesn’t have to.) And he will continue to work on it for 10 minutes a day until it’s finished. Then we record the Action Plan, how he will accomplish it, and what he can say to himself if he has interfering thoughts.
+   Clients can often test negative predictions (such as “My roommate won’t want to go to [that event] with me”; “I won’t understand the instructions even if I ask for help”; or “Doing Action Plans will make me feel worse”) through behavioral experiments. You can help clients evaluate other thoughts, such as “It’s not worth the effort” or “Doing this will make no difference” with standard Socratic questioning.
+Overestimating the Demands of an Action Plan
+The negative predictions of some clients are overestimations of how inconvenient or difficult an Action Plan will be. Or they don’t realize that doing an Action Plan will be time limited. It’s a good idea to ask clients how long they think an Action Plan item will take.
+
+Judith: What could get in the way of your doing a Thought Record a few times this week?
+Maria: I’m not sure I’ll find the time. [automatic thought] Judith: How long do you think they would take?
+Maria: I don’t know. Half an hour? I’m pretty rushed these days, you know. I have a million things to do.
+Judith: It’s good you told me that. I actually want you to spend only 10
+minutes doing a thought record. Does that sound easier? Maria: I’m not sure.
+Judith: Maybe it’s not worth it to you to find the time. Do you think in the long run it will improve your life, help you get a better life?
+Maria: (Sighs.) I guess so.
+
+You can then do straightforward problem solving to find possible time slots. Alternatively, you might propose an analogy about prioritization and/or stress that the inconvenience of doing Action Plans is temporary:
+
+Judith: It certainly is true; you are very busy these days. I wonder—this is an extreme example, I know—but what would you do if you had to take time every day to do something that would save your life [or your loved one’s life]? What would happen, for example, if you needed a blood transfusion every day?
+Maria: Well, of course I’d find the time.
+Judith: Now, it’s obviously not life threatening if you don’t do Thought Records, but the principle is the same. In a minute, we can talk specifically about how you could cut back in another area, but first it’s important to remember that this is not for the rest of your life. We just need you to rearrange some things for a little while until you’re feeling better.
+   The client who overestimates the energy an Action Plan requires benefits from similar questions. In the next example, Maria has a dysfunctional (and distorted) image of fulfilling an Action Plan.
+
+Judith: What got in the way of your going to the mall this week?
+Maria: (Sighs.) I just didn’t have the energy.
+Judith: What did you imagine would happen if you had gone?
+Maria: Well, I would have had to drag myself into one store after another.
+Judith: You know, we talked about your going for just 15 minutes. How many stores would you actually get to in 15 minutes? I wonder if you were imagining that it would be more difficult than we had planned?
+
+   In a different situation, Maria has correctly recalled the Action Plan but again she has overestimated the energy it would require. I first help specify the problem by doing a modified, short version of covert rehearsal, and I ask her a question to link the Action Plan to one of her important values.
+
+Maria: I wasn’t sure I’d have the energy to take Caleb to the park.
+Judith: Was the problem mostly getting out of the house, going to the park, or what you’d have to do at the park?
+Maria: Getting out of the house. I have to get so much stuff together— his diaper bag, the stroller, a snack, his coat and boots . . .
+Judith: Is going to the park connected to something important?
+Maria: (Thinks.) Yeah. I really do want to be a good aunt. It wasn’t so good that I had him cooped up the whole day.
+
+   Next, we problem-solve; one solution is for Maria to gather all the necessities earlier in the day when she is feeling more energetic and less overwhelmed.
+
+CLINICAL TIPS
+Another problem can arise when clients try to do their Action Plans perfectly. They can benefit from a simple reminder, such as the following:
+“Learning to identify your automatic thoughts is a skill, like learning the computer. You’ll get better with practice. So, if you have any trouble again this week, don’t worry. We’ll figure it out together at our next session.”
+
+Other clients with a strong underlying assumption about the necessity of being perfect may benefit from Action Plans that include mistakes:
+Therapist: It sounds as if your idea about needing to be perfect is getting in the way of doing your Action Plan.
+Client: Yeah, I think it is.
+Therapist: How about this week if we have you do a Thought Record that is deliberately imperfect? You could do it with messy handwriting or not do it thoroughly or make spelling mistakes. And how about if we put a 10-minute time limit on it?
+
+Procrastination and Avoidance
+Depressed clients often have difficulty getting started on their Action Plan. Earlier in this chapter, you read about several techniques you can use. It’s often helpful to say:
+“Do you think you might focus on how you’re feeling at the moment instead of how you’ll feel when you finish it? Would it also help to remind yourself what goal you’re trying to reach and why?”
+
+   Also, telling clients what you do when you find yourself procrastinating can help. For example, do you occasionally have difficulty initiating a task (e.g., getting yourself to work on a paper, pay taxes, or start exercising)? What do you do to get yourself going? Using selfdisclosure can normalize the experience and provide an example of what they can do.
+
+Judith: I’m sorry it’s been difficult for you [to fill out the insurance forms]. Should I tell you how I get myself to do something I’ve been avoiding?
+Abe: Yes.
+Judith: When I’m avoiding something, I find the few minutes just before starting are the most unpleasant. Once I actually start doing it, I almost always feel better. This past weekend, I had to go through the mail on my desk. It was hard to get started, but I told myself I could stop after 10 minutes and that it was really likely it would get easier after a couple of minutes. And it did. (pause) Has that ever happened to you?
+
+Abe recognizes that he often has the same experience. He commits to a behavioral experiment to see what will happen later in the afternoon when he sits down to fill out the forms.
+
+Doing Action Plans at the Last Minute
+Ideally, clients carry on the work of the therapy session throughout the week. For example, it’s most useful for clients to catch and record their automatic thoughts at the moment they notice their mood changing or they’re engaging in unhelpful behavior. Then they can respond to these thoughts either mentally or in writing. Some clients avoid thinking about therapy between sessions. Often this avoidance is part of a larger problem, and you may first have to help clients identify and modify certain beliefs (e.g., “If I focus on a problem instead of distracting myself, I’ll only feel worse” or “I can’t change, so why even try?”). Other clients, however, need only a gentle reminder to look at their Action Plan daily.
+
+Interfering Cognitions Masked as Practical Problems
+Some clients propose that practical problems such as lack of time, energy, or opportunity have prevented them from carrying out an Action Plan. If you believe that a thought or belief is also interfering, you should investigate this possibility before discussing the practical problem:
+
+Therapist: Okay, you couldn’t do the Action Plan because you didn’t have time. Let’s pretend for a moment that this problem magically disappears. Let’s say you have a whole day free. Now how likely are you do to the Action Plan? Would anything else interfere? Would any thoughts get in the way?
+
+Problems Related to the Therapist’s Cognitions
+Finally, you should assess whether any of your thoughts or beliefs hinder you from being gently assertive about doing Action Plans. Typical dysfunctional assumptions of therapists include the following:
+* “I’ll hurt his feelings if I try to find out why he didn’t do the Action Plan.”
+* “She’ll get angry if I [nicely] question her.”
+* “He’ll be insulted if I suggest he try an Action Plan monitor.”
+* “She doesn’t really need to do Action Plans to get better.”
+* “He’s too overburdened now with other things.”
+* “She’s too passive–aggressive to do Action Plans.” “He’s too fragile to expose himself to an anxious situation.”
+
+
+Ask yourself what goes through your mind when you think about assigning Action Plans or exploring why a client has not done an Action Plan. If you’re having dysfunctional thoughts, you might do Thought Records or behavioral experiments or consult a supervisor or peer. Remind yourself that you aren’t doing clients a favor if you allow them to skip doing Action Plans (which research shows are important) and don’t make a great enough effort to gain adherence.
+
+SUMMARY
+In summary, both you and your clients should view Action Plans as an essential part of treatment. Action Plans should be designed for the individual client and set collaboratively. Various techniques can be used to motivate clients to complete their Action Plans, including anticipating and preventing problems. When difficulties do arise, it’s important to conceptualize the problem and plan a strategy to overcome it. Action Plans, properly assigned and completed, speed progress and allow clients to practice therapy techniques that they will need when treatment is over.
+
+REFLEC T ION QUES T IONS
+Think about an activity you have avoided. What practical problems or cognitions got in the way? What did you do or what could you have done to overcome your avoidance?
+
+PRACTICE EXERCISE
+Set a moderately difficult Action Plan item for yourself in the coming week that, if you complete it, will enrich your learning of CBT. Anticipate a problem that could arise, conceptualize the difficulty, and plan a strategy to overcome it.

@@ -1,0 +1,302 @@
+12
+IDENTIFYING AUTOMATIC THOUGHTS
+To review, the cognitive model suggests that the interpretation of a
+situation (rather than the situation itself), expressed in automatic thoughts or images, influences one’s emotion, behavior, and physiological response. It’s important to help clients respond to their unhelpful or inaccurate thoughts.
+   Certain events are almost universally upsetting, for example, a personal assault or rejection. People with psychological disorders, however, display biased thinking. They often see situations as much more negative than they really are. They may misconstrue neutral or even positive situations. By critically examining and responding to their thoughts, they often feel better. We especially want to address automatic thoughts that pose obstacles to attaining goals.
+   The rest of this chapter deals with negative automatic thoughts and answers these questions:
+* What are the characteristics of automatic thoughts?
+* How can you explain automatic thoughts to clients?
+* How do you elicit and specify automatic thoughts?
+* What does an extended cognitive model look like?
+* What are different forms of automatic thoughts? What can you do when clients have difficulty identifying their automatic thoughts?
+* How do you teach clients to identify their automatic thoughts independently?
+
+CHARACTERISTICS OF AUTOMATIC THOUGHTS
+Automatic thoughts are a stream of thinking that coexists with a more manifest stream of thought (Beck, 1964). These thoughts aren’t characteristic only of individuals in psychological distress; they are an experience common to us all. Most of the time we are barely aware of these thoughts, although with just a little training we can easily bring these thoughts into consciousness. When we become aware of our thoughts, we may automatically do a reality check if we’re not suffering from psychological dysfunction. This kind of automatic reality testing and responding to negative thoughts is a common experience. People who are in distress often don’t engage in this kind of critical examination. CBT teaches clients tools to evaluate their thoughts in a conscious, structured way, especially when they’re upset or engaged in unhelpful behavior.
+   Abe, for example, has to stay home to fix an active leak under the sink, so he can’t attend his grandson’s soccer game. He thinks, “Ethan will be so disappointed.” His thinking then becomes more extreme: “I’m always letting him down.” He accepts these thoughts as true and feels quite sad. After learning tools of CBT, however, he’s able to use his negative emotion as a cue to identify, evaluate, and respond adaptively to his thoughts. In another situation, Abe was able to respond to a similar automatic thought in this way: “Wait a minute, her parents are going to be at there [at her dance recital]. She may be a little disappointed that I’m not. And it’s not true that I’m always letting her down. I’ve gone to lots of her performances.”
+   You seek to identify automatic thoughts that are dysfunctional— that is, those that
+* distort reality,
+* are associated with an unhelpful emotional and/or physiological reaction,
+* lead to unhelpful behavior, and/or
+* interfere with clients’ sense of well-being and ability to take steps to reach their goals.
+   As we discussed in earlier chapters, it’s vital to be alert to both verbal and nonverbal cues from clients so you can identify the most important (or “hot”) cognitions—that is, important automatic thoughts and images that arise in the therapy session itself. These cognitions may be about the subject under discussion (“It’s not fair that I have so much to do”). But they may be about the client (“I can’t do anything right”), the therapist (“You don’t understand me”), or the process of therapy (“I don’t like giving feedback”). And they may undermine the client’s motivation, sense of adequacy or worth, or concentration. Finally, automatic thoughts may interfere with the therapeutic relationship. Identifying automatic thoughts on the spot gives clients the opportunity to test and respond to their thoughts immediately, which facilitates the work in the rest of the session.
+   Dysfunctional automatic thoughts are almost always negative unless:
+* the client is manic or hypomanic (“It’s a great idea to see how fast my car can go”),
+* the client has narcissistic traits (“I’m superior to everyone”), and/or
+* the client is giving him- or herself permission to engage in maladaptive behavior (“It’s okay to binge drink because all my friends are doing the same thing”).
+
+
+   Automatic thoughts are usually quite brief, and clients are often more aware of the emotion they feel as a result of their thoughts than of the thoughts themselves. Sitting in session, for example, clients may be somewhat aware of feeling anxious, sad, irritated, or embarrassed but may be unaware of their automatic thoughts until you elicit them. The emotions clients feel are logically connected to the content of their automatic thoughts. For example, Abe thinks, “Everything is such a mess. I’m so lazy”—and feels sad. Another time he thinks, “I should be visiting my mother more often”—and feels guilty. When he has the thoughts “What if I run out of money?” he feels anxious.
+   Sometimes clients are more aware of their unhelpful behavior than they are of the automatic thoughts that precede their action. Abe, for example, recognizes that he has avoided connecting with his friends and doing tasks around his apartment. This behavior is logically connected to the content of his automatic thoughts. When I ask him what was going through his mind in the first situation, he replies, “They might be critical of me for not working.” In the second, he thought, “I’ll just mess up anything I try to do.”
+   Clients may also be more aware of their physiological response than of their thoughts. Maria, for example, noticed feelings of tension, more than her automatic thoughts, when she was anxious.
+   Most automatic thoughts are associated with external situations (e.g., talking to a friend) or a stream of thoughts (e.g., thinking about an upcoming or a past event). But a wide range of both external stimuli and internal experiences can give rise to automatic thoughts. Clients can have thoughts about any part of the cognitive model:
+* Their cognitions (thoughts, images, beliefs, daydreams, dreams, memories, or flashbacks),
+* Their emotion,
+* Their behavior, or
+* Their physiological or mental experiences (e.g., strange ideas or a sense that their thoughts are racing).
+
+
+Any of these stimuli may lead to an automatic thought (or series of automatic thoughts), followed by an emotional, behavioral, and/or physiological reaction. Here are some examples from Abe:
+* When Abe thought, “I wish I never had to talk to my ex-wife again,” he had an automatic thought about this thought: “I shouldn’t think things like that.”
+* When Abe thought, “I’m so tired. I don’t want to go to Max’s soccer game,” he then thought, “I’m a really bad grandfather for not wanting to go.”
+* When Abe had automatic thoughts in the form of memories about his marriage, he thought, “I wish I didn’t always remember the worst parts of our life together.”
+* When Abe realized how hopeless and sad he was feeling, he thought, “I’m always going to feel this way.”
+* When Abe avoided going out to do errands, he thought, “I’m so lazy.”
+* When Abe became anxious about being late, his heart started beating fast and he thought, “What’s wrong with me?”
+
+
+   In traditional CBT, we tend to focus on problematic situations from the past week, determining at which point clients were most distressed and what their automatic thoughts were. In a recovery orientation, we tend to focus more on the thoughts clients predict will create an obstacle to taking steps in the coming week toward achieving their goal.
+   Clients may have distressing or unhelpful automatic thoughts
+* before a situation, in anticipation of what might happen (“What if he’s upset with me?”),
+* during a situation (“She’s thinking how poorly I’m doing this”), and/or
+* after a situation, reflecting on what happened (“I never should have called him up”).
+
+
+EXPLAINING AUTOMATIC THOUGHTS TO CLIENTS
+It’s desirable to explain automatic thoughts by using the client’s own examples. In the context of discussing a specific issue with a client, you will elicit the associated automatic thoughts and then provide psychoeducation.
+
+Judith: [moving to the first agenda topic] Maria, should we talk about your goal of connecting better with your sister?
+Maria: Yes.
+Judith: What do you want to do this week?
+Maria: (Sighs.) I really should ask her if she wants to have lunch.
+Judith: How are you feeling?
+Maria: I don’t know. Sad, down.
+Judith: What’s going through your mind?
+Maria: She’s so lucky. I’ll never be able to have a life like hers.
+Judith: No wonder you’re feeling sad. [providing psychoeducation] You just identified what we call an automatic thought: I’ll never be able to have a life like hers. Everyone has these kinds of thoughts. They just seem to pop into our heads, even when we’re trying to think about something else. That’s why we call them automatic. (pause) Most of the time, they’re very quick and we’re much more aware of the emotion—in this case, you feel sad—than we are of our thoughts. (pause) When people are depressed like you are, it turns out that often the thoughts aren’t true, or not completely true. But we react as if they’re true.
+Maria: Oh.
+Judith: [checking on her comprehension] Can you tell me about automatic thoughts in your own words?
+Maria: I think what you’re saying is that I have these quick thoughts, and because I’m depressed, they might not be true.
+Judith: Exactly.
+
+In the next part of the session, I write down the cognitive model for this automatic thought.
+Situation: Thinking about sister --> Automatic thought: “I’ll never be able to have a life like hers.” --> Emotion: Sad
+
+Judith: Let’s get that down on paper. When you had the thought “I’ll never be able to have a life like hers,” you felt sad. Do you see how what you were thinking influenced how you felt?
+Maria: Uh-huh.
+Judith: I’ll be teaching you to identify your automatic thoughts when you notice your mood changing or you’re doing something that’s not helpful. That’s the first step. We’ll keep practicing it until it’s easy. And you’ll also learn how to evaluate your thoughts and change your thinking if it’s not completely right.
+
+ELICITING AUTOMATIC THOUGHTS
+The skill of identifying automatic thoughts is analogous to learning any other skill. Some clients (and therapists) catch on quite easily and quickly. Others need much more guidance and practice. The basic questions you ask clients are:
+* “What [is/was/will be] going through your mind?”
+* “What [are you/were you/will you be] thinking?”
+
+You’ll ask one of these questions
+* when clients describe a problematic situation, emotion, behavior, or physiological reaction they had (often in the past week) or expect to have (often in the coming week); and/or
+* when clients experience a negative shift in affect or exhibit an unhelpful behavior in the therapy session itself.
+
+Eliciting Additional Automatic Thoughts
+Continue questioning clients even after they report an initial automatic thought, to discover whether they have had other important thoughts.
+
+Judith: [summarizing] So when you woke up yesterday morning with a hangover, you thought, “I never should have drunk so much last night.” What else went through your mind?
+Maria: I can’t believe I did that again.
+Judith: Then what?
+Maria: I was thinking, “What’s the point of even trying though. Nothing will ever get better.”
+
+   When clients express an automatic thought and an emotion, it’s also important to see whether they experienced additional emotions. If so, they undoubtedly had another thought, or a stream of thoughts.
+
+Judith: [summarizing] So you felt sad when you thought, “I’ve used up most of my savings.” Did you feel any other emotion?
+Abe: I think I felt anxious.
+Judith: What was going through your mind that made you feel anxious?
+Abe: I was thinking, “What’s going to happen to me? What if I can’t make rent? Am I going to wind up on the street?”
+
+AN EXTENDED COGNITIVE MODEL
+Clients sometimes have a series of automatic thoughts and reactions about a given issue, especially if the client ends up behaving in an unhelpful way, such as using an impulsive behavior. It’s important to record the many steps, from the initial trigger to the final reaction (which can take seconds to hours). Figure 12.1 demonstrates how Maria experienced an initial upsetting situation and then ultimately drank too much.
+   Once you and clients have mapped out the extended scenario, you can show them all the places where they can learn to intervene before they engage in the dysfunctional behavior. Doing so usually makes them feel more hopeful about solving the problem.
+
+FORMS OF AUTOMATIC THOUGHTS
+Automatic thoughts are most commonly in verbal form. Sometimes, though, they’re in the form of images (Chapter 20). And sometimes clients don’t state their automatic thoughts outright. They may
+* tell you their interpretations of their experiences,
+* embed their automatic thoughts in discourse,
+* express short phrases, and/or
+* report automatic thoughts as questions.
+
+
+FIGURE 12.1. Example of an extended cognitive model:
+/ Situation: Friend calls Annie to cancel lunch and shopping.
+Automatic thought: “She doesn’t want to see me.” -->  Emotion: Sadness --> Additional automatic thoughts: “This is the second time she’s done that. She’s being inconsiderate.” --> Emotion: Irritability --> Situation: Realizes she has no backup plan. --> Automatic thought: “Now what am I going to do this afternoon?” --> Emotion: Anxiety --> Situation: Thinks about what to do. --> Automatic thoughts: “I really should go pay the bills. But what if I don’t have enough money in the checking account?” --> Emotion: Anxiety --> Behavior: Sits on couch and obsesses over lack of money. --> Physiological response: Tension in body --> Situation: Notices how she’s feeling. --> Automatic thought: “I don’t like feeling this way.” --> Emotion: Increased anxiety --> Physiological response: Increased tension --> Automatic thought: “I want a glass of wine. But it’s too early to start drinking.” --> Emotion: Increased anxiety --> Physiological response: Increased tension --> Automatic thought: [permission giving thought] “There’s nothing else I can do to get rid of this feeling. I might as well go get some [wine].” --> Emotion: Partial relief --> Physiological response: Slight reduction in tension --> Behavior: Gets a glass of wine and drinks it quickly. --> Automatic thought: “That feels better.” --> Emotion: Relief --> Physiological --> response: Reduction of tension /
+
+
+If so, you need to guide clients to change their verbalizations so they’re in a form that can be evaluated.
+
+Differentiating Automatic Thoughts from Interpretations
+When you ask for clients’ automatic thoughts, you’re seeking the actual words or images that go through their mind. Until they have learned to recognize these thoughts, some clients report interpretations (as Maria does below), which may or may not have been their actual thoughts.
+
+Judith: When you saw the receptionist, what went through your mind? Maria: I think I was denying my real feelings.
+Judith: What were you actually thinking? Maria: I’m not sure what you mean.
+In this exchange, Maria reported an interpretation of what she was feeling and thinking. Below, I try again, by focusing on and heightening her emotion.
+Judith: What feelings were you denying? Maria: I’m not sure.
+Judith: [supplying an emotion opposite to the expected one to jog her recall] When you saw her, did you feel happy? Excited?
+Maria: No, not at all.
+Judith: Can you remember walking into the office and seeing her? Can you picture that in your mind?
+Maria: Uh-huh.
+Judith: (speaking in the present tense) What are you feeling?
+Maria: I don’t know.
+Judith: As you look at her, what’s going through your mind?
+Maria: [reporting an emotion and a physiological reaction, instead of an automatic thought] I feel really anxious, my heart is beating fast, and I feel all jittery.
+Judith: What are you thinking?
+Maria: What if she gives me a hard time again about not filling out the forms? [automatic thought]
+Judith: Okay. Anything else?
+Maria: I guess I was thinking, “If she gives me a hard time, I’ll have to leave.”
+Specifying Automatic Thoughts Embedded in Discourse
+Clients need to learn to specify the actual words that go through their minds in order to evaluate them effectively. Following are some examples of embedded thoughts versus actual words:
+* Embedded expression 1: “I guess I was worried about what she would say to me.”
+ Actual automatic thought 1: “She’s going to criticize me.”
+
+* Embedded expression 2: “I don’t know if going to the boss would be a waste of time.”
+Actual automatic thought 2: “It’ll probably be a waste of timeif I go.”
+
+* Embedded expression 3: “I couldn’t get myself to start reading.”
+Actual automatic thought 3: “I can’t do this.”
+
+
+Again, you gently lead clients to identify the actual words that went through their mind.
+
+Judith: So when you turned red, what went through your mind?
+Maria: I guess I was wondering if he thought I was this really strange person.
+Judith: Can you remember the exact words you were thinking? Maria: (puzzled) I’m not sure what you mean.
+Judith: Were you thinking, “I guess I was wondering if he thought I was this really strange person,” or were you thinking something like “He probably thinks I’m really strange.”
+Maria: Oh, I see; the second one.
+
+Changing the Form of Telegraphic or Question Thoughts
+Clients may report thoughts that are not fully spelled out. It’s difficult to evaluate telegraphic thoughts, and you should prompt the client to express the thought more fully by asking for the meaning of the thought. For example, when Abe had the thought “Oh, no!” the meaning to him was “My ex-wife is really going to be mad about this.” “Damn!” was the expression of Maria’s idea “Leaving my cell phone at home was stupid.” This technique is illustrated below.
+
+Judith: What went through your mind when you heard about the family reunion?
+Abe: “Uh-oh.” I just thought, “Uh-oh.”
+Judith: Can you spell the thought out? “Uh-oh” means . . . Abe: What if my ex-wife is there? She might be pretty unfriendly.
+
+If clients are unable to spell out their thought, you might try supplying an opposite thought: “Did ‘Uh-oh’ mean, ‘That’s really good’?” It can be a good idea to supply the opposite thought, instead of your guess at the actual thought, because clients might agree with your hypothesized thought even if it’s not exactly what went through their mind.
+   Automatic thoughts are sometimes expressed in the form of questions, which also aren’t conducive to evaluation. When this happens, guide clients in expressing their thoughts in a statement form prior to helping them evaluate it.
+
+Judith: So you thought, “What if I don’t get the job? Abe: Yes.
+Judith: What are you concerned could happen if you don’t get the job?
+Abe: Probably no one will hire me.
+Judith: Could we take a look at that thought? That if you don’t get this job, probably no one will hire you?
+
+Here are some examples of restating clients’ automatic thoughts that were in the form of questions by asking what they were concerned about (or what they were most afraid could happen) if they encountered a difficult situation:
+* Question 1: “Will I be able to cope?”
+Statement 1: “I won’t be able to cope.”
+
+* Question 2: “Can I stand it if she leaves?”
+Statement 2: “I won’t be able to stand it if she leaves.”
+
+* Question 3: “What if I can’t do it?”
+Statement 3: “I’ll lose my job if I can’t do it.”
+
+* Question 4: “How will I get through it?”
+Statement 4: “I won’t be able to get through it.”
+
+* Question 5: “What if I can’t change?”
+Statement 5: “I’ll be miserable forever if I can’t change.”
+
+* Question 6: “Why did this happen to me?”
+Statement 6: “This shouldn’t have happened to me.”
+
+
+DIFFICULTIES IN ELICITING AUTOMATIC THOUGHTS
+Sometimes clients just don’t know the answer to “What’s going through your mind?” You can use various techniques to help clients when they have difficulty (1) identifying their automatic thoughts from a past situation, (2) predicting their automatic thoughts in a future situation, or (3) or identifying thoughts that arise in the session itself. First, ask clients to describe the situation. Then try one or more of the following:
+* Heighten the client’s response.
+* Have the client visualize the distressing situation.
+* If the situation involves another person, suggest the client re-create it in a role play with you.
+* Inquire about images.
+* Supply thoughts you believe are probably opposite to the client’s thoughts.
+* Ask for the meaning of the situation.
+
+
+These techniques are illustrated below.
+Heightening Emotional and Physiological Responses
+To help clients gain greater access to their thoughts, try to increase their emotional and physiological arousal.
+
+Judith: Abe, when it’s time to go to breakfast with your buddies on Sunday, what do you think will be going through your mind?
+Abe: I’m not sure.
+Judith: How do you think you’ll be feeling?
+Abe: Probably anxious.
+Judith: Where will you feel the anxiety?
+Abe: Here (putting his hand on his abdomen), in my stomach.
+Judith: Can you feel the same feeling now?
+Abe: (Nods.)
+Judith: (speaking in the present tense) So you’re at home, you’re thinking about going out . . . You’re feeling anxious; you can feel it in your stomach . . . What’s going through your mind?
+Abe: What if they don’t really want to be there? What if they don’t really want to see me?
+
+Visualizing the Situation
+Sometimes it helps when clients describe the situation in detail and then see it in their mind’s eye.
+
+Judith: Okay, you were at your son’s house earlier this week and you began feeling really upset?
+Abe: Yes.
+Judith: What was going through your mind? Abe: I don’t know. I was just feeling really bad.
+Judith: Can you describe the scene for me? What time was it? What were you doing?
+Abe: It was about 6 o’clock. My son hadn’t gotten home from work yet. My daughter-in-law was in the kitchen, and I was just sitting alone in the living room.
+Judith: Where were your grandsons? Abe: They were upstairs in their room.
+Judith: So can you see the scene as if it’s happening right now? You’re in the living room. Are you sitting in a chair or on the couch? What’s your posture like?
+Abe: I’m on the couch, kind of slumped over.
+Judith: Your son isn’t home yet. Your daughter-in-law is in the kitchen— can you hear her moving around? You know your grandsons are upstairs, but you’re sitting alone, all by yourself, and you’re thinking . . .
+Abe: [expressing his automatic thoughts] I used to have such a good life. Now nothing is good about it.
+
+ReCreating an Interpersonal Situation through Role Play
+In this re-creation, clients initially describe who said what verbally; then they play themselves while you play the other person in the interaction.
+
+Judith: So, you were feeling down as you were talking to talking to your neighbor?
+Abe: Yes.
+Judith: What was going through your mind as you were talking to him?
+Abe: (Pauses.) . . . I don’t know. I was just really down.
+Judith: Can you tell me what you said to him and what he said to you? Abe: (Describes verbal exchange.)
+Judith: Can we try a role play? I’ll be your neighbor, and you be you. Abe: Okay.
+Judith: While we’re doing the role play, see if you can figure out what’s going through your mind.
+Abe: (Nods.)
+Judith: Okay, you start. What do you say first?
+Abe: Uh, can I ask you a question? Judith: Sure.
+Abe: I really need a job. Do you think you could ask your boss if he needs someone?
+Judith: I’m not sure . . . Have you looked down at the mall? One of the stores might be hiring.
+Abe: I’m not sure I want to work retail.
+Judith: I wish I could help you, but . . . Okay, out of role play. Were you aware of what was going through your mind?
+Abe: Yeah. I was thinking that he doesn’t want to help me. He must think I’d do a bad job.
+
+Inquiring about Images
+If you become aware of an image in your own mind as the client is describing a situation, use it as a prompt to remind you to ask the client about experiencing an image: “Sometimes it’s hard to identify your automatic thoughts. Let me ask you this: When you thought that you might see your ex-wife at your son’s birthday party, did you have a picture in your mind of what she might look like?”
+
+Suggesting an Opposite Thought
+Interestingly, clients sometimes have greater access to their thoughts when you supply them with a thought that you believe is opposite to their actual thoughts.
+
+Abe: I don’t know what’s likely to go through my mind as I get ready for the job interview. All I know is that I’ll be really anxious.
+Judith: [summarizing] I don’t imagine you’ll be thinking how great it will probably go?
+Abe: No, not at all! I’ll probably be thinking that I’m going to mess it up.
+
+Eliciting the Meaning of the Situation
+When clients have difficulty accessing their thoughts, you can ask them what the situation meant to them.
+
+Judith: What did it mean to you that you didn’t get the job? Abe: That I’m just not good enough. I’ll probably never get a job.
+
+   Be careful about using too many techniques when clients have difficulty figuring out their thoughts. Otherwise they may feel interrogated or view themselves as having failed. Downplay the importance of identifying these specific thoughts. “Well, sometimes these thoughts are hard to catch. No big deal. How about if we move on to …?”
+
+TEACHING CLIENTS TO IDENTIFY AUTOMATIC THOUGHTS
+As described in Chapter 6, you can begin teaching clients the skill of identifying automatic thoughts even during the first session. Here I have just demonstrated the cognitive model, using Maria’s examples.
+
+Judith: Maria, when you notice your mood getting worse or you’re doing something that’s not helpful in the next week, could you stop and ask yourself, “What’s going through my mind right now?”
+Maria: Yeah.
+Judith: Maybe you could jot down a few of these thoughts on paper or in your phone?
+Maria: Okay.
+Judith: Now don’t worry if you have some trouble figuring out what you’re thinking. It’s a skill, and you’ll get better at it over time.
+
+   In later sessions, you might also explicitly teach the client other techniques if the basic question (“What’s going through your mind right now?”) isn’t effective. The handout in Figure 12.2 can be useful.
+“If you still have trouble figuring out what’s going through your mind, this handout might help. (Goes through the handout with the client.) How about trying out some of these questions this week if you can’t figure out what you’re thinking?”
+
+
+FIGURE 12.2. Questions to Identify Automatic Thoughts handout. Copyright © 2018 Worksheet Packet. Beck Institute for Cognitive Behavior Therapy, Philadelphia, Pennsylvania:
+/ 1. What’s going through my mind? or What am I thinking?
+2. What am I definitely NOT thinking? (Identifying an opposite thought can help prompt you to identify the actual thought.)
+3. What does the situation mean to me?
+4. Am I making a prediction? Or remembering something?
+Remember: Just because i think something doesn’t necessarily mean it’s true. /
+
+
+SUMMARY
+Automatic thoughts coexist with a more manifest stream of thoughts, arise spontaneously, and are not based on reflection or deliberation. People are usually more aware of their associated emotion or behavior. With a little training, though, they can become aware of what’s going through their minds. Automatic thoughts are associated with specific emotions, depending on their content and meaning. They are often brief and fleeting and may occur in verbal and/or imaginal form. People usually accept their automatic thoughts as true, without reflection or evaluation. Identifying, evaluating, and responding to automatic thoughts (in a more adaptive way) usually produces an adaptive shift in affect and/or behavior.
+   The next chapter clarifies the difference between automatic thoughts and emotions.
+
+REFLECTION QUES T IONS
+What are some ways you can help clients identify their automatic thoughts? How can you prevent clients from being self-critical if they have difficulty?
+
+PRACTICE EXERCISE
+Do a role play in which a client is struggling to identify his or her automatic thoughts.
+
+

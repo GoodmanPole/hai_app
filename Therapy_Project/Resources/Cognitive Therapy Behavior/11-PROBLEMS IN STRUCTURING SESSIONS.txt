@@ -1,0 +1,320 @@
+11
+PROBLEMS IN STRUCTURING SESSIONS
+Many clients become easily socialized to the usual structure of sessions. Educating clients about the structure and providing a rationale may be enough. But there are certainly times when you shouldn’t follow the usual structure. In this chapter, you’ll find the answers to these questions:
+* How do you conceptualize difficulties in structuring sessions?
+* What are common problems for each segment of a typical therapy session?
+* How can you solve these problems?
+* When should you deviate from the agenda?
+* What can you do when clients are distressed toward the end of a session?
+
+
+GENERAL DIFFICULTIES IN STRUCTURING
+When you become aware of a problem, ask yourself:
+* “What is the specific problem? What is the client saying or not saying that’s a problem? Or what is the client doing or not doing?”
+* “Do I have any responsibility for this problem?”
+* “How do I conceptualize why this problem arose?”
+* “What should I do about it?”
+
+   If you’ve correctly diagnosed the client and developed a sound treatment plan but still have difficulties in structuring sessions, check on the following:
+* Have you gently interrupted the client to direct the session?
+* Have you socialized the client into the structure and process of treatment?
+* Is the client sufficiently engaged in treatment?
+* Is the therapeutic relationship strong enough?
+
+Therapist Cognitions
+If you are a novice therapist or a therapist experienced in a less directive modality, you may have interfering cognitions about gently interrupting clients and implementing the standard structure. Monitor your discomfort and identify your automatic thoughts during and between sessions. Here are some typical ones:
+* “I can’t structure the session.”
+* “[My client] won’t like the structure.”
+* “She can’t express herself concisely.”
+* “He’ll get mad if I’m too directive.”
+* “I’ll miss something important.”
+* “I shouldn’t interrupt her.”
+* “He won’t do Action Plans.”
+* “She’ll feel invalidated.”
+
+
+
+If you’re struggling, evaluate and respond to your thoughts so you can experiment with implementing the standard structure at the next session. I strongly recommend that you practice structuring sessions in role plays. Then, you can structure a client session as a behavioral experiment to see if your thoughts are accurate.
+
+Interrupting the Client
+For therapy to proceed most efficiently, you need to use gentle interruption. In one of our sessions, Maria starts talking about holiday plans and then brings up other problems.
+
+Maria: And then, I couldn’t believe it, but my sister told me—told me!— that I had to go help out Mom. She knows that I can’t do that. I mean, my mother and I have never gotten along. If I go over, she’ll just bombard me with stuff to do. And she’ll criticize me. I just can’t take any more criticism. I get it all day at work and . . .
+Judith: Can I interrupt you for a minute? I want to make sure I understand what’s been going on. We started talking about holiday plans and what you could do and then you described some other problems. Which do you think would be most important to work on? Holiday plans, your sister, mom, or work?
+
+Sometimes clients become upset when you interrupt. When they do, positively reinforce them for telling you. Then apologize for making a mistake. (You overestimated how much interruption your client could tolerate.) Next, negotiate with the client, as I do with Maria below.
+
+Judith: [interrupting Maria for the third time] Sorry to interrupt. How did you feel when he did that?
+Maria: (in irritated tone of voice) You’re interrupting me again.
+Judith: Oh, it’s good you told me that. You’re right. I’m sorry. I have been interrupting you too much. (pause) How does this sound? You tell me whatever you think is most important for me to know for the next 10 minutes or so, and I won’t interrupt at all. Then I’d like to summarize what you said because it’s important to me that I understand you correctly. (pause) Then maybe we can choose one issue to focus on next.
+
+Clients like Maria often spontaneously tell you that you’re interrupting too much. Other clients may tell you after you note an affect shift and ask them what’s going through their minds. When you suspect that clients have had a negative reaction to interruptions but are reluctant to tell you, you can offer a hypothesis: “I was wondering whether you thought I was interrupting you too much?”
+
+Socializing the Client
+A second common difficulty in maintaining the prescribed structure can arise if you don’t adequately socialize clients. Clients who are 
+new to CBT don’t know in advance that you would like them to briefly report on the week, describe their mood, and name agenda items. Asking clients to think about the items on the Preparing for Therapy Worksheet (Figure 10.3, p. 178) should help.
+Clients also don’t know that you will ask them to summarize important points of your discussions, provide feedback during and at the end of sessions, remember session content, and consistently do daily Action Plans. In addition, you are essentially teaching clients certain skills—and also a new way of relating to you (for those who have been in another type of therapy)—or a new way of relating to their difficulties so they can adopt a more objective, problem-solving orientation. In the first therapy session, you should tell them why you’re structuring the session, describe each session element and then provide a rationale and monitor with gentle, corrective feedback.
+
+
+Engaging the Client
+A third common difficulty arises when clients have dysfunctional beliefs that interfere with their ability to commit to working in treatment. They may not have clear goals that they really want to achieve. They may have unrealistic hopes that they will somehow get better just by showing up to therapy sessions without doing the work of therapy. They may feel hopeless about their ability to solve problems, affect their life, or change. They may even fear that if they get better, their life will get worse in some way (e.g., they will lose you as a therapist or have to return to work). You need to be aware of clients’ shifts in affect during the session so you can ask them for their cognitions. Then you’ll help clients respond to their unhelpful thinking so they’ll be more amenable to the structure and tasks of treatment.
+
+Addressing Dysfunctional Cognitions
+A fourth common difficulty involves clients’ unwillingness to conform to the prescribed structure because of their perceptions of and dysfunctional beliefs about themselves, about therapy, or about you. I notice a negative affect shift when I describe the session structure to Maria in our first therapy appointment.
+
+Judith: What just went through your mind when I described what our sessions would be like?
+Maria: I’m not sure I’m comfortable with it. My old therapist just let me keep talking about whatever was on my mind.
+Judith: Did you feel that helped you get over your depression?
+Maria: (Thinks.) Well, no, not really. That’s why I stopped seeing him after a couple of years.
+Judith: Here’s my concern. If I do exactly what he did, I think we’re going to have the same outcome. (pause) How would you feel about trying it a different way? You might find that it’s actually a lot better for you. And if you don’t, we can always change what we’re doing.
+Maria: (hesitantly) I guess that’s okay.
+Judith: Good. Let’s give it a try, and I’ll make sure to ask you partway through today and at the end how it feels to you.
+
+   At the other end of the spectrum, you may allow the client to dominate and control the flow of the session—initially. With most clients, however, you will negotiate a compromise satisfactory to both of you, and you will try, over time, to move the client toward the standard structure.
+
+CLINICAL TIPS
+How do you determine whether the difficulty in adherence to session structure is due to faulty socialization or reluctance in complying? You first intervene by further socializing clients to the customary structure and by monitoring their verbal and nonverbal responses. If it’s simply a problem in socialization, clients’ responses are fairly neutral (or perhaps slightly self-critical), and subsequent compliance is good.
+
+Judith: Can I interrupt for a moment? Can we get back to what happened when you called your friend?
+Abe: Oh, sure.
+
+   When clients react negatively, they have undoubtedly perceived your request in a negative way, and you need to switch gears.
+
+Maria: That reminds me. I forgot to tell you what my mother told me I had to do.
+Judith: Should we finish talking about David first?
+Maria: (irritably) But this thing with my mother is really upsetting.
+Judith: Okay. We can talk about your mother. I just want to make sure that it’s okay if we don’t have time to get back to talking about David today.
+Maria: Yeah, the thing with David can wait.
+   Problems can also arise if you impose structure in a controlling or demanding fashion. If clients are reluctant to provide you with honest feedback, you may not know you’ve made this mistake. It will be important for you to review a recording of the session—and even better, if a peer, colleague, or supervisor reviews it too. Then you can model apologizing and remedy the problem at the next session. You might say: “I think I came across as too heavy-handed last week. I’m sorry, I do want to make sure that you agree with how the session goes.”
+
+COMMON PROBLEMS IN STRUCTURAL PARTS OF SESSIONS
+You could potentially run into difficulties for each part of the session, including
+* The mood check,
+* setting the agenda,
+* eliciting an update,
+* reviewing the Action Plan,
+* discussion of agenda items, and/or
+* ending the session.
+
+The most common problems in each of these areas are described below.
+
+Difficulties in Doing the Mood Check
+Common problems involve clients’ failure to fill out forms, annoyance with forms, or difficulty in subjectively expressing (in a concise manner) their general mood during the week. If the difficulty is simply faulty socialization related to completing the forms, you can ask clients whether they remember and agree with the rationale for filling them out and determine whether there’s a practical difficulty that needs to be resolved (e.g., insufficient time, forgetting, or a problem in literacy).
+
+Negative Reactions to Forms
+When clients are annoyed by the request to fill out forms, you can ask for their automatic thoughts when thinking about or actually filling them out, or you can ask for the significance of the situation:
+“What’s the worst part about filling them out?” or
+“What does it mean to you that I’ve asked you to fill out these forms?”
+
+You can then empathically respond to clients’ concerns, help them evaluate relevant thoughts and beliefs, and/or do problem solving. These responses are provided in the three examples below.
+
+Client 1: These forms don’t really seem to apply to me. Half of the questions are irrelevant.
+Therapist: Yes, I know. But actually, they’re helpful to me—I can look at them quickly and get the overall picture, and not bother you with lots of questions. Would you be willing to fill them out again next week, and we can talk more about them then if they still bother you?
+
+In the next example, the client clearly expresses his annoyance through his choice of words, tone of voice, and body language.
+
+Client 2: These forms are a waste of time. Half the questions are irrelevant.
+Therapist: What’s the worst part about filling them out?
+Client 2: I’m busy. I have a lot to do. If my life fills up with meaningless tasks, I’ll never get anything done.
+Therapist: I can see you feel pretty irritated. How long does it take you to fill them out?
+Client 2: . . . I don’t know. A few minutes, I guess.
+Therapist: I know some of the items don’t apply, but actually they save us time in our session because I don’t have to ask you lots of questions myself. Could we try to problem-solve and see where you could fit in the time to do them?
+Client 2: (Sighs.) I guess it’s not that big a deal. I’ll do them.
+
+Here I avoid directly evaluating the accuracy of the client’s automatic thoughts because he is annoyed and I sense that he will perceive such questioning in a negative way. Instead, I provide a rationale and help the client realize that the task is not as time consuming as he has perceived it to be. In a third case, I judge that further persuasion to fill out forms will negatively affect our tenuous therapeutic alliance.
+
+Client 3: (in an angry voice) I hate these forms. They don’t apply to me. I know you want me to fill them out, but I’m telling you, they’re worthless.
+Therapist: Let’s skip them, then, at least for the time being. I would like to get a clear idea of how you’ve been feeling during the week though. Maybe you could just rate your depression on a 0–100 scale, where 0 is not feeling depressed at all and 100 is the most depressed you’ve ever felt. Would that be all right?
+
+Difficulty Expressing Mood
+A different problem involves clients’ difficulty in subjectively expressing their mood, either because they do not do so concisely or because they have difficulty labeling their moods. You might gently interrupt, and either ask specific questions or demonstrate to them how to respond.
+   If clients elaborate at length about their mood, socialize them to give a concise description.
+
+Therapist: Can I interrupt you for a moment? I do want to hear more about in a few minutes, but first I just need to know whether you’ve generally felt better, worse, or the same compared to last week.
+Client: Worse.
+Therapist: More anxious? More sad? More angry? Client: Angry, I guess.
+
+When clients have difficulty labeling their moods, you might respond differently: “It sounds like it’s hard to pin down how you’ve been feeling. Maybe we should put on the agenda ‘identifying feelings.’” During the session, you might use the techniques described in Chapter 13 to teach clients to specify their mood.
+
+Attribution of Change in Mood to External Factors
+Sometimes clients attribute positive changes in their mood to external factors. For example, they might say, “I felt better because the medication started working/my boss was out sick/my partner was nicer to me.” You might then suggest, “I’m sure that helped, but did you also find yourself thinking differently or doing anything that was different?”
+
+Worsening of Mood
+Also seek clients’ attributions when their mood has become worse: “Why do you think you’re feeling worse this week? Could it have anything to do with your thinking, or with the things you did or didn’t do?” In this way, you subtly reinforce the cognitive model and imply that clients can take some control over how they feel.
+
+
+
+
+CLINICAL TIPS
+You could have clients who say, “Nothing can improve my mood.” It might be helpful to create a chart such as the one in Chapter 7, page 130. Recognizing that there are things that make them feel better or worse can help reinforce the notion that clients can affect their mood. Through guided discovery, you can help them see that avoidance, isolation, and inactivity generally increase their dysphoria (or at least do not improve it), while engagement in certain activities (usually that involve interpersonal interaction or that have the potential for pleasure or mastery) can lead to an improvement in their mood, even if initially the change is small.
+
+Difficulties in Setting the Agenda
+Typical difficulties in setting the agenda arise when clients
+* ramble,
+* fail to contribute, and/or
+* feel hopeless or overwhelmed.
+
+
+Rambling when Contributing to the Agenda
+Sometimes clients digress or are long-winded. A gentle interruption and summary can help: “Can I interrupt for a moment? It sounds as if you have goals this week in terms of your dad and work. Is there anything more important than those two things?”
+
+Failing to Contribute to the Agenda
+Some clients don’t name problems or goals for the agenda because they truly don’t know what to say, they are doing really well, or they’re not adequately socialized. If they’re not sure what should go on the agenda, you can ask them one or more of the following questions:
+* (taking out a copy of the client’s goals) “Is there something on this list you’d like to talk about?”
+* “How would you like the next few days to be better?”
+* “How do you want to feel next week when you come in? What will you need to do this week to feel that way?”
+* “Do you want to talk about … [a goal] or … [a specific issue]?”
+* “When was the past week most difficult for you?”
+
+
+You can also look at the symptom scales they filled out on that day and see which ones are elevated.
+If they don’t need further help in working toward their goals, you can focus on relapse prevention (Chapter 21).
+Below, I illustrate two occasions, in Sessions 2 and 3, where I have some difficulty setting an agenda with Maria.
+
+Judith: What would you like the goal for this session to be? Maria: . . . I don’t know.
+Judith: Is there a particular goal you want to work toward? How would you like your life to be better this week?
+Maria: (Sighs.) I don’t know.
+Judith: Are you feeling kind of hopeless? Maria: Yeah. Last week was really bad.
+Judith: [providing a multiple choice] Do you think you generally felt worst in the morning, the afternoon, or in the evening?
+Maria: Mornings, I guess.
+Judith: Okay, can we put “mornings” on the agenda to see if there’s anything we can do to make them a little better?
+Maria: All right.
+
+At the end of the session, I’ll ask Maria to add an Action Plan item to her list: to think about what issues or goals she wants help with at the next session.
+   Sometimes clients don’t contribute to setting the agenda because they put a special negative meaning on contributing. You can ask for their automatic thoughts or for what it means to them that you’ve asked them to name agenda items. When Maria returns to our third session, her update suggests there are important issues for us to go over. But she doesn’t put them on the agenda.
+
+Judith: Were you able to think about what goals you want to work on?
+Maria: (in a slightly annoyed tone) I thought about it. But I didn’t come up with anything.
+Judith: How were you feeling when you were thinking about it? Annoyed?
+Maria: Maybe a little.
+Judith: What was going through your mind?
+Maria: I’m just not sure that this therapy is right for me.
+Judith: [positively reinforcing Maria] It’s good you told me that. Do you have a sense of what might help you more?
+Maria: Sometimes I just need to talk to get things off my chest.
+Judith: So when I ask you to set the agenda, do you feel kind of hemmed in?
+Maria: Yeah, I guess I do.
+Judith: Let’s figure out together how to make it better. Would you like to skip setting the agenda at the very beginning of our sessions? How would it be if you came in and talked about whatever is on your mind for the first few minutes. Then we can pick whatever feels most important to you to work on for the next part of the session. (pause) Does that sound okay?
+Maria: It sounds better.
+Judith: Is there anything else that bothers you about this therapy? Maria: No, I don’t think so.
+Judith: Could you be sure to let me know if you think of something? Maria: Okay.
+
+Maria’s response is unusual. Most clients are much more easily socialized into agenda setting. But in this case, I recognized that pushing Maria further might alienate her, so I demonstrate my desire to collaboratively “fix” the problem. She needs more flexibility in session structure initially, but I move her toward a more standard structure as soon as I can.
+   Clients who ramble during agenda setting or launch into a detailed account of an issue instead of naming it usually just require further socialization.
+
+Judith: (gently interrupting) Can I interrupt you for a moment? Should we call this goal “reconnecting with your brother”?
+Abe: Yes.
+Judith: Good. Can you tell me the name of any other issue or goal you’d like to work on?
+
+Occasionally clients persist in the next session in describing issues rather than just naming them during agenda setting. If so, you can ask them to jot down their agenda topics as part of their Action Plan.
+Feeling Hopeless and Overwhelmed
+A third problem in agenda setting arises when clients feel hopeless and overwhelmed. Here I try to get Maria into a problem-solving mode.
+
+
+Judith: Maria, what goals do you want to work toward today?
+Maria: (Sighs.) I don’t know . . . I’m so overwhelmed. I don’t think any of this is going to help.
+Judith: You don’t think talking about your problems and goals in here will help?
+Maria: No. What’s the use? I mean, you can’t fix the fact that I owe too much money and I’m so tired I can’t even get out of bed most mornings—not to mention the fact that my apartment is out of control.
+Judith: Well, it’s true that we can’t fix everything at once. And you do have real problems that we need to work on together. Now, if we just have time to work on one thing today, which do you think will help more than the others?
+Maria: I don’t know . . . the tiredness, maybe. If I could sleep better, maybe I could get more done.
+
+In this case, I give Maria the message that her problems are real, that they can be worked on one by one, and that she need not work on them alone. Asking her to make a forced choice helps her select a problem and become oriented toward problem solving. Had Maria refused to make a choice, I might have tried a different tactic:
+“It sounds like you’re feeling pretty hopeless. I don’t know for sure that working together will make a difference, but I’d like to try. (pause) Would you be willing to try? Could we talk about the tiredness for a few minutes and see what happens?”
+
+Acknowledging her hopelessness and my inability to guarantee success increases Maria’s willingness to experiment with problem solving.
+
+Difficulties in Eliciting an Update
+A common difficulty arises when clients provide too detailed an account of their week or speak at length in an unfocused way. After a few such sentences, you should gently jump in:
+“Can I interrupt you for a moment? Right now, I just need to get the big picture of how you’ve been feeling. Could you just tell me about your week in two or three sentences? Was it generally a good week? A bad week? Or did it have its ups and downs?”
+
+If clients continue to offer details instead of the broader picture, you might demonstrate what you are looking for:
+“It sounds to me like you’re saying, ‘I had a pretty hard week. I had a fight with a friend, and I was really anxious about going out, and I had trouble concentrating on my work.’ Is that right?”
+
+   Some clients do understand and are capable of providing a succinct review but do not choose to do so. If you have data to suggest that questioning clients about their reluctance to comply could damage the relationship, you may initially allow them to control the update portion of the session. Such data might include clients’ verbal and/or nonverbal reactions to your prior attempts at structuring, their direct statements of strong preferences in the therapeutic process, or their reports of a strong reaction in the past when they have perceived others as controlling or dominating. Extreme reactions to structuring are not common, however. Usually you can matter-of-factly elicit reasons for clients’ reluctance, and then problem-solve. After asking clients to review their week more concisely and noting a negative shift in affect, you might say, “When I just asked you to give me the big picture, what went through your mind?” Having identified clients’ automatic thoughts, you might then
+* help them evaluate the validity of their thoughts,
+* use the downward arrow technique (see pp. 291–292) to uncover the meaning of their thoughts, and/or
+* make an empathic statement and move straight to problem solving, as below:
+“I’m sorry you felt I cut you off again. I can see you have a lot on your mind, and I would like to hear it. (pause) Do you want to continue with the update now, or should we put ‘update of week’ on the agenda? I just want to make sure I know all the issues you want to talk about today.”
+
+This latter choice is usually better than helping clients evaluate their thoughts at the moment if they are particularly annoyed. By expressing your concern and willingness to compromise, you can often modify clients’ perception that you are being too controlling.
+
+Difficulties in Reviewing the Action Plan
+A typical problem arises when therapists, in their haste to get to clients’ agenda issues, fail to ask clients about their Action Plan. You are more likely to remember to ask about Action Plans if you keep it as a standard agenda item and if you review your therapy notes from the previous session before clients enter your office. The opposite problem sometimes arises when the therapist reviews Action Plans (unrelated to the client’s distress that day) in too much detail before turning to the client’s agenda topics.
+
+Difficulties in Discussing Agenda Items
+Typical problems here include
+* unfocused or tangential discussion,
+* inefficient pacing,
+* failing to make a therapeutic intervention, and/or
+* difficulty in knowing how to solve a client’s problem.
+
+Unfocused Discussion
+This problem usually results when you fail to structure the discussion appropriately through gentle interruptions (guiding the client back to the issue at hand); when you fail to emphasize key automatic thoughts, emotions, beliefs, and behaviors; and when you fail to summarize frequently. Below, I summarize many things Abe told me in just a few words and redirect him to identify his automatic thoughts.
+
+Judith: Let me just make sure I understand. Your mother said some unkind things to you on the phone. This reminded you of other interactions you’ve had with her, and you began to get more and more upset. Last night you called her again, and she began to criticize you for not living up to your responsibilities. Is that right?
+Abe: Yeah.
+Judith: What went through your mind as she said, “You’re not living up to your responsibilities”?
+
+Inefficient Pacing
+Pacing is often a problem when you take too much time or too little time discussing an agenda item. Some therapists overestimate how many issues or goals can be discussed during one therapy session. It is preferable to prioritize and then to specify two items (or possibly a third) to be discussed during a session, especially if you’re a novice CBT therapist. Together you and the client should keep track of the time and collaboratively decide what to do if time is running short. In practical terms, it’s advisable to have two clocks (one for each of you to easily see) so you can encourage clients to monitor the passage of time along with you. You might say:
+
+
+
+“We have only 10 minutes left before we have to start finishing up. Would you like to continue talking about this issue with your neighbor? Or we could finish in the next minute or two so we have time to discuss your getting more done around your apartment.”
+
+Alternatively, you can suggest how to spend the time and see if the client agrees with you:
+“We have only 10 minutes left before we have to start finishing up. I think what we’re talking about is really important. Is it okay if we postpone talking about until our next session?”
+
+Failing to Make a Therapeutic Intervention
+Much of the time, merely describing a problem or goal or identifying dysfunctional thoughts or beliefs will not result in the client’s feeling better. You should be conscious of helping clients (during the session itself) respond to their dysfunctional cognitions, solve or partially solve a problem or address an obstacle to a goal, and set up an Action Plan. Throughout the session, you should ask yourself:
+* “How can I help the client feel better by the end of the session?”
+* “How can I help the client have a better week?”
+
+Difficulty with Problem Solving
+You may encounter situations in which you don’t know how to help a client solve a problem or resolve an obstacle. There are several things you can do:
+* Find out what the client already tried to do and conceptualize why it didn’t work. You may be able to modify the solution or modify thoughts that got in the way.
+* Use yourself as a model. Ask yourself, “If I had this problem or goal, what would I do?”
+* Ask the client to name another person (usually a friend or family member) who could conceivably have the same kind of problem or goal. What advice would the client give him or her? See whether that advice could apply to the client.
+* Ask the client if he or she knows someone who could help with the problem or goal.
+
+
+If you’re stuck, postpone the discussion: “I’d like to think more about this issue this week. Could we put it on the agenda to talk more about next week?”
+
+DEVIATING FROM THE AGENDA
+There are times when you shouldn’t follow the agenda you and the client collaboratively set at the beginning of the session:
+* ??If you find out that clients are at risk or they are putting others at risk, you’ll need to address these problems immediately. Risky situations might involve the client’s (or others’) life, health, livelihood, employment, living situation, and so on.
+* ??If you see that clients are so distressed by a problem that they can’t focus on what you’re currently discussing, you may need to talk about the distressing problem.
+* ??If you assess that following the agenda will impair the therapeutic relationship, you’ll need to collaboratively get back on track with clients.
+* ??If an issue arises that is more pressing than the agenda items (or certain original agenda items turn out to be relatively unimportant or not time sensitive), you’ll need to address a different problem or goal.
+
+
+   Clients usually go along with the structure you propose. But once in a while, clients object, especially if:
+* you haven’t provided a strong enough rationale,
+* you’ve come across as too controlling and noncollaborative,
+* they believe that discussing the past early in treatment is essential, and/or
+* they strongly prefer to spend the session talking freely about whatever comes in their mind.
+
+
+   What do you do? Above all, you need to engage clients so they will return to treatment for the next session. You may need to spend some time talking about what they think will help most. If you judge that trying to persuade clients to adhere to your agenda will endanger their engagement in treatment, especially early on, you might offer to split the therapy time. If they protest, you can spend the session doing what they want. At the next session, you’ll find out whether doing so helped them feel significantly better during the week. If not, they may be more motivated to spend at least part of the session discussing what you think is important to help them feel better.
+
+WHEN CLIENTS ARE  DISTRESSED TOWARD THE END OF A SESSION
+When clients are upset toward the end of a session because you haven’t had enough time to fully discuss an issue, you can change the conversation to something more positive.
+
+Judith: Maria, I can see you’re still upset about this. Could we talk more about this at our next session? I don’t want you to leave the session feeling this way.
+Maria: Okay.
+Judith: Would it be all right if we talked about something lighter? Tell me about your nephew. What is he into these days?
+
+   As discussed in Chapter 4, make sure to positively reinforce clients whenever they give you negative feedback; then conceptualize and plan a strategy.
+
+Judith: What did you think about today’s session? Was there anything I got wrong? Or did I say anything that bothered you?
+Maria: I don’t think you realize how hard it is for me to get things done. I have so many responsibilities and so many problems. It’s easy for you to say I should just concentrate on my what’s going well in my life and forget all about what’s happening with my mother.
+Judith: Oh, it’s good you told me—and I’m sorry you got that impression. What I meant to get across was that I realize you are very distressed by the problem with your mother. I wish we had time to talk about that now. (pause) But meanwhile, was there something I said or did that made you think I was suggesting that you just forget all about it?
+
+I clarified the misunderstanding, and we agreed to put the issue with Maria’s mother on the agenda at our next session.
+
+SUMMARY
+Therapists at all levels of experience encounter difficulties in structuring sessions with particular clients. It’s important to specify the problem and then conceptualize why the problem is happening. Careful review of your session tapes can be invaluable in identifying and then solving these problems. A more extensive account of how to conceptualize and modify problems clients present in session, along with videos of therapy sessions, can be found in an online course on personality disorders (beckinstitute.org/CBTresources).
+REFLEC T ION QUES T IONS
+Why is it important to interrupt clients at times? What automatic thoughts might you have that would get in the way of gently interrupting your clients? How can you respond to these thoughts?
+
+PRACTICE EXERCISE
+Do a role play (or create a transcript) in which a client becomes irritated when you interrupt him or her.
