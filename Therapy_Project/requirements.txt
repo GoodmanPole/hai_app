@@ -5,3 +5,4 @@ chromadb
 pypdf
 python-dotenv
 streamlit
+faiss-cpu==1.7.4
