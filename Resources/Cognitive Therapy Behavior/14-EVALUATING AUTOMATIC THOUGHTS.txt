@@ -1,0 +1,392 @@
+14
+EVALUATING AUTOMATIC THOUGHTS
+Clients have hundreds or thousands of thoughts a day, some dysfunctional, some not, some relevant to treatment, others not. Part of the art of therapy is to conceptualize which thoughts are most important to address and how to address them. In this chapter, you’ll learn the answers to the following questions:
+* What kinds of thoughts do you address in treatment?
+* How do you select the most important thoughts to work on?
+* How do you use Socratic questioning to evaluate thoughts?
+* How do you assess the outcome of the evaluation process?
+* How do you conceptualize why evaluation might be ineffective?
+* What are alternate methods of addressing thoughts?
+* What do you do when thoughts are true?
+
+
+TYPES OF AUTOMATIC THOUGHTS
+Three kinds of thoughts are relevant to therapy:
+1. Inaccurate thoughts that lead to distress and/or maladaptive behavior (especially those that present obstacles to achieving goals). You’ll often evaluate them verbally or test through behavioral experiments.
+2. Accurate but unhelpful thoughts. You might problem-solve, evaluate an inaccurate conclusion stemming from the thought, and/or work toward acceptance of an insoluble problem and changing the focus of attention.
+3. Thoughts that are part of a dysfunctional thought process such as rumination, obsession, or self-criticism. You’ll often evaluate beliefs about the thought process, use mindfulness techniques, and emphasize valued action.
+
+Later in this chapter, you’ll learn a variety of other techniques to address these three types of thoughts.
+
+SELECTING KEY AUTOMATIC THOUGHTS
+You have identified an automatic thought. Clients may have
+* made a spontaneous utterance during a session (e.g., “I just don’t think anything can help me”);
+* related an automatic thought, often from the past week; or
+* made a prediction of an unhelpful thought they might have in the future.
+
+Next you need to conceptualize whether this is an important thought on which to focus; that is, is it currently significantly distressing or unhelpful and likely to recur? Does it pose an obstacle to a goal? If it was an automatic thought from the past week, you might ask:
+“In what situation did you have this thought [if the client reported a thought and not the situation]?”
+“How much did you believe it at the time? How much do you believe it now?” [Clients can use a 0–10 or 0–100 scale, or words such as “a little,” “a medium/moderate amount,” “a lot,” and “completely.”]
+“How did this thought make you feel emotionally? How intense was the emotion then? How intense is the emotion now?”
+“What did you do?”
+
+You will also ask yourself whether the client is likely to have this kind of thought again and be distressed by it. If not, it may not be an important enough cognition to spend time on.
+   Why do clients bring up problems and automatic thoughts that aren’t important? Most of the time, it’s because they aren’t socialized well enough to treatment. Or sometimes they bring up problems that occurred just before the therapy session.
+   You will vary your questions slightly if clients spontaneously utter the thought and/or if they are predicting a thought they’re likely to have later. You should also find out whether additional thoughts were more central or distressing:
+“What else went through your mind [in this situation]? Did you have any other thoughts or images?”
+“Did you feel any other emotion?” [If so,] “What thoughts/images went along with it?”
+“Which thought/image was most upsetting?”
+
+Even if clients report an important automatic thought, you might collaboratively decide not to focus on it, especially if:
+* it might impair the therapeutic relationship (e.g., you perceive that clients are feeling invalidated),
+* their level of distress is too high to evaluate their thinking,
+* there’s insufficient time in the session to help them respond effectively to the thought,
+* it seems more important to work on another element of the cognitive model (e.g., you might focus instead on solving the problem, teaching the client emotion regulation techniques, discussing more adaptive behavioral responses, or addressing the client’s physiological response),
+* you decide you should work on a dysfunctional belief underlying the automatic thought, or
+* you believe it’s more important to discuss something else altogether.
+
+
+QUESTIONING TO EVALUATE AN AUTOMATIC THOUGHT
+Having elicited an automatic thought, determined that it is important and distressing, and identified its accompanying reactions (emotional, physiological, and behavioral), you may collaboratively decide with the client to evaluate it. You will not directly challenge the automatic thought, however, for several reasons:
+??You usually don’t know in advance the degree to which any given automatic thought is distorted (e.g., Abe’s thought that he was going to run out of money could be valid).
+??A direct challenge can lead clients to feel invalidated (e.g., Maria might think, “[My therapist] is telling me I’m wrong”).
+??Challenging a cognition violates a fundamental principal of CBT, that of collaborative empiricism: You and the client together examine the automatic thought, test its validity and/or utility, and develop a more adaptive response.
+
+
+It’s also important to keep in mind that automatic thoughts are rarely completely erroneous. Usually, they contain at least a grain of truth (which is important to acknowledge).
+   Instead of challenging or disputing automatic thoughts, we often use a gentle process of Socratic questioning. Initially, you may need to have a summary sheet of questions in front of you (Figure 14.1 or 14.2), a copy of which you can give to the client. (These questions are derived from worksheets, which you’ll read about in the next chapter.) Eventually, you’ll learn the questions so well that you won’t need it. At that point, done well, this style of inquiry sounds almost conversational. Research shows that the Socratic method is generally superior to didactic methods. (Actually, “Socratic” is usually a misnomer; the Socratic questioning method, derived from the philosopher Socrates, involves a dialectical discussion.) Properly done, Socratic questioning leads to symptom change (Braun et al., 2015). Clients prefer this method; they find it more helpful and respectful and are more likely to engage in cognitive restructuring (Heiniger et al., 2018). See Overholser (2018) for an extensive discussion of the Socratic method of psychotherapy.
+
+
+FIGURE 14.1. Questions to evaluate automatic thoughts 1 (from the Thought Record):
+/ What is the evidence that the automatic thought is true? Not true? Is there an alternative explanation?
+What’s the worst that could happen, and how could I cope? What’s the best that could happen? What’s the most realistic outcome?
+What’s the effect of my believing the automatic thought? What could be the effect of changing my thinking?
+If … [friend’s name] was in the situation and had this thought, what would I tell him/her?
+What should I do about it? /
+
+
+
+FIGURE 14.2. Questions to evaluate automatic thoughts 2 (from the Testing Your Thoughts Worksheet):
+/ What is the situation?
+What am I thinking or imagining?
+What makes me think the thought is true?
+What makes me think the thought is not true or not completely true? What’s another way to look at this?
+What’s the worst that could happen? What could I do then? What’s the best that could happen?
+What will probably happen?
+What will happen if I keep telling myself the same thought?
+What could happen if I changed my thinking?
+What would I tell my friend [think of a specific person] if this happened to them?
+What should I do now? /
+
+
+
+   On the other hand, behavioral methods (if you help clients draw adaptive conclusions from their experiences) can be more powerful than Socratic questioning. Behavioral experiments are appropriate for almost every client (and are necessary for some, including young children and individuals with serious mental illness, brain injury, intellectual disabilities, or autism).
+   You may use questioning from the very first session to evaluate a specific automatic thought. In a subsequent session, you will begin to explain the process more explicitly, so clients can learn to evaluate their thinking between sessions:
+
+Judith: (Summarizes past portion of the session; writes automatic thoughts on paper for both to see.) So when you considered calling Charlie, you thought, “He probably won’t want to hear from me,” and that thought made you feel sad?
+Abe: Yeah.
+Judith: And how much did you believe that thought at the time?
+Abe: Oh, pretty much. About 90%.
+Judith: And how sad did you feel?
+Abe: Maybe 80%.
+Judith: Do you remember what we’ve been talking about? Sometimes automatic thoughts like these are true, sometimes they turn out not to be true, and sometimes they have a grain of truth. Can we look at this thought about Charlie to see how accurate it seems?
+Abe: Okay.
+Judith: I’d like to show you a list of questions that might be helpful.
+
+It’s useful for clients to use one of the lists (Figure 14.1 or 14.2) to evaluate their thoughts verbally with you in session. If they’re successful, you can suggest that they use the list between sessions as part of their Action Plan when they identify an automatic thought. They can then think about their responses or write them down. But make sure it’s appropriate to give them the list. Some clients become overwhelmed by the number of questions. When you predict this is the case, teach them just one or two questions, which you or the client can record. Or circle a few questions on one of the lists. But before suggesting that they use these questions at home, make sure that:
+* they understand that evaluating their thinking can help them feel better,
+* they believe they will be able to use the questions effectively, and
+* they understand that not all questions apply to all automatic thoughts.
+
+   You should also guide them so they’ll know when and how to use the questions.
+
+Judith: Abe, it would be too burdensome for you to use these questions for every automatic thought you have this week. So, when you notice your mood getting worse or you’re doing something that isn’t helpful, try to catch your automatic thoughts, and then think to yourself, “Do I have therapy notes that cover this?” Okay?
+Abe: Yes.
+Judith: If this is a new thought, you’ll definitely want to pull out the list at least some of the time. Now, ideally, you’d not only ask yourself the questions but also write down your answers, if you can. How does that sound?
+Abe: Fine.
+
+CLINICAL TIPS
+The evaluation of client’s thoughts should be evenhanded. We don’t want clients to ignore evidence that supports an automatic thought, devise an unlikely alternative explanation, or adopt an unrealistically positive view of what might happen. Let clients know that not all of the questions in the lists are relevant to every automatic thought. And using all of the questions, even if they logically apply, may be too cumbersome and time consuming. Clients may not evaluate their thoughts at all if they consider the process too burdensome.
+
+   You can use any set of questions to help clients evaluate their thinking, but the lists can be helpful as they guide you and the client to
+* examine the validity of the automatic thought,
+* explore the possibility of other interpretations or viewpoints,
+* decatastrophize the problem situation,
+* recognize the impact of believing the automatic thought,
+* gain distance from the thought, and
+* take steps to solve the problem.
+
+
+Each question is described below.
+“Evidence” Questions
+Because automatic thoughts usually contain a grain of truth, clients usually do have some evidence that supports their accuracy (which you will help them identify first), but they often fail to recognize evidence to the contrary (which you will help them identify next):
+
+Judith: What makes you think that Charlie won’t want to hear from
+you? [or “What is the evidence that … ?”] Abe: Well, it’s been at least a month since I talked to him. Judith: Anything else?
+Abe: Well, the last time we got together, I wasn’t much fun. Judith: Anything else?
+Abe: (Thinks.) No. I guess not.
+Judith: Okay, now what makes you think it might not be true or not completely true [or “What’s the evidence on the other side?”] that maybe he would want to hear from you?
+Abe: I don’t know. We used to be good friends. But I haven’t seen him as much in the past few months.
+Judith: Anything else?
+Abe: When I cancelled plans with him last month, he sounded disappointed.
+Judith: What did he say?
+Abe: That he was sorry I wasn’t feeling well. That he hoped I’d feel better soon.
+Judith: Okay. [summarizing] So, on the one hand, you haven’t heard from Charlie in over a month and you haven’t seen him as often recently. You also think that last time you did get together, you weren’t much fun. On the other hand, you’ve been friends for a long time, he seemed disappointed not to get together with you, and he seemed sympathetic. Is that right?
+Abe: Yeah.
+
+“Alternative Explanation” Questions
+Next, I help Abe devise a reasonable alternative explanation for what has happened.
+Judith: Good. Now, let’s look at the situation again. Is there another way to look at this? [or “Could there be an alternative explanation for why you haven’t heard from him in a month—other than he doesn’t want to hear from you?”]
+Abe: I don’t know.
+Judith: Why else might he have been out of touch?
+Abe: I’m not sure. Sometimes he gets in a real crunch at work. Sometimes his wife wants him to stay home all weekend. I guess it’s possible he’s been too busy.
+
+“Decatastrophizing” Questions
+Many clients predict a worst-case scenario. Ask them how they could cope if the worst does happen.
+Judith: Okay. Now, if the worst happens and it turns out he doesn’t want to hear from you, what could you do? [or “How could you cope with that?”]
+Abe: Well, I wouldn’t be happy about it.
+Judith: [asking leading questions to help him develop a robust response] Do you have other friends you could be in contact with?
+Abe: It’s been a while. But I suppose I could.
+Judith: And you still have your children and grandchildren? Abe: Yes.
+Judith: So, would you be okay? Abe: Yeah, I guess I would.
+
+Clients’ worst fears are often unrealistic. Your objective is to help them think of more realistic outcomes, but many clients have difficulty doing so. You might help them broaden their thinking by next asking for the best outcome.
+
+Judith: Now the worst may be unlikely to happen. What’s the best that could happen?
+Abe: That I’ll call him and he’ll want to get together.
+Judith: I wonder whether the best would be that he’d call you today and apologize for being out of touch and make plans to see you right away.
+Abe: I guess that would be the best.
+Judith: And what do you think will probably happen? [or “What is the most realistic outcome?”]
+Abe: It’s possible that he’s only a little annoyed with me or that he’s been busy and maybe he will want to get together.
+
+CLINICAL TIPS
+When clients’ worst fears are that they’ll die, you obviously won’t ask the “How would you cope?” question. Instead, you might ask for the best and most realistic outcomes. You might also decide to ask what the worst part of dying would be: fears of the process of dying, fears of what they imagine an afterlife might be like, or fears of what would happen to loved ones after the client’s death.
+
+“Impact of the Automatic Thought” Questions
+Below, I help Abe assess the consequences of responding and not responding to his distorted thinking.
+
+Judith: And what will happen if you keep telling yourself that Charlie doesn’t want to hear from you? [Or “What is the effect of your thinking that he doesn’t want to hear from you?”]
+Abe: It makes me sad. And I end up not calling him.
+Judith: And what could happen if you changed your thinking? [or “What could be the effect of changing your thinking?”]
+Abe: I’d feel better. I’d be more likely to call.
+
+“Distancing” Questions
+Clients often benefit from getting some distance from their thoughts by imagining what they would tell a close friend or family member in a similar situation.
+
+Judith: Abe, let’s say your son had a friend whom he was out of touch with for a month. If he thought, “My friend doesn’t want to hear from me,” what would you tell him?
+Abe: I guess I’d tell him that a month isn’t too long a time. That there may be a good reason they were out of touch. That it’s worth it to contact his friend.
+Judith: Does that apply to you? Abe: Yes, I guess it does.
+
+“ProblemSolving” Questions
+The answer to “What would be good to do now?” may be cognitive and/or behavioral in nature. Sometimes clients should remind themselves of something you’ve just discussed—for example: “I guess if I think …, I need to remember ….” Abe said, “I guess if I think he doesn’t want to hear from me, I need to remember that I’m probably wrong. He’s probably just been busy.” Abe and I also come up with a behavioral plan.
+
+Judith: And what would you like to do about this situation?
+Abe: Uh . . . I guess I should just go ahead and text him.
+
+   I would then ask how likely Abe was to text him and respond to obstacles that could get in the way. If I were unsure of Abe’s social skills, I might have asked him, “What do you think you should say in the text?” If Abe thought it would be helpful, we might role-play what to say to his friend when they got together. We might evaluate the pros and cons of his disclosing his depression. We might brainstorm things to talk about to lighten the mood. I might ask Abe if he wants to text Charlie right then in my office.
+
+ASSESSING THE OUTCOME OF THE EVALUATION PROCESS
+In the last part of this discussion, I assess how much Abe now believes the original automatic thought and how he feels emotionally, so I can decide what to do next in the session.
+
+Judith: Good. Now, how much do you believe this thought: “Charlie doesn’t want to hear from me”?
+Abe: Not that much. Maybe 30%. Judith: Okay. And how sad do you feel? Abe: Not much either.
+Judith: Good. It sounds like this exercise was useful. Let’s go back and see what we did that helped.
+
+   You and the client won’t use all the questions in the lists for every automatic thought you evaluate. Sometimes none of the questions seems useful, and you might go in a different direction altogether. Also, don’t expect that clients’ belief in the automatic thought to go down to 0% or that their negative mood will go away completely.
+
+CONCEPTUALIZING WHEN COGNITIVE RESTRUCTURING IS INEFFECTIVE
+When mood and/or behavior don’t improve, you need to conceptualize why this initial attempt at cognitive restructuring hasn’t been sufficiently effective. Common reasons to consider include the following:
+1. There are more central automatic thoughts and/or images you haven’t yet identified or evaluated.
+2. The evaluation of the automatic thought is implausible, superficial, or inadequate.
+3. The client hasn’t sufficiently expressed the evidence that seems to support the automatic thought.
+4. The automatic thought itself is also a broad, overgeneralized cognition: a core belief (such as “I’m helpless/I’m unlovable/I’m worthless”).
+5. The client understands intellectually that the automatic thought is distorted but not on an emotional level.
+6. The automatic thought is part of a dysfunctional thought pattern.
+
+
+   My supervisee, Andrew, was a novice therapist. He made some mistakes when he was treating Margaret, a woman with social anxiety. In the first situation, the client didn’t verbalize the most central automatic thought or image. Margaret had several automatic thoughts but verbalized only one. When Andrew helped her evaluate this automatic thought, she experienced only a mild decrease in the intensity of her anxiety. He should have questioned her more carefully before jumping in to evaluate the first thought she expressed.
+   In a second situation, the client responded to an automatic thought superficially. Margaret thought, “My coworker might criticize me.” Instead of carefully evaluating the thought, she merely responded, “He probably won’t.” This response was insufficient, and her anxiety didn’t decrease.
+   In a third situation, the therapist didn’t thoroughly probe for, and therefore the client didn’t fully express, the evidence that the automatic thought was true, resulting in an ineffective adaptive response, as seen here:
+
+Therapist: Okay, Margaret, what evidence do you have that your friend doesn’t want to bother with you?
+Margaret: Well, she hardly ever calls me. I always call her.
+Therapist: Okay, anything on the other side? That she does care about you, that she does want a good relationship with you?
+
+   Had Andrew asked her additional questions, he would have uncovered other evidence that Margaret has to support her automatic thought: that her friend has turned down several invitations to spend time with her, that she sounded impatient on the phone the last few times when she called, and that she had not sent Margaret a birthday card. Having elicited this additional data, Andrew could have helped Margaret weigh the evidence more effectively.
+   In a fourth situation, the client identified an automatic thought that was also a core belief. Margaret often thinks, “There’s something wrong with me.” She believes this idea so strongly that a single evaluation doesn’t alter her perception or the associated affect. In an early session, she lists many situations in which she feels anxious and then she reports this cognition to Andrew. Andrew starts helping her evaluate it. But he should have focused on a specific situation in which she had this thought—for example: “Can we talk about the party you went to over the weekend when no one came up to you and you thought, ‘There’s something wrong with me’? Could there have been another reason that no one came up to you?” Andrew will need to use many techniques over time to alter the client’s overgeneralized core belief (see Chapter 18).
+   In a fifth situation, the client indicated that she believes an adaptive response “intellectually,” in her mind, but not “emotionally,” in her heart, soul, or gut. She discounts the adaptive response. In this case, Andrew and Margaret should have explored an unarticulated belief that lay behind the automatic thought:
+Therapist: How much do you believe that Christina probably has other reasons for not putting you on her work team?
+Margaret: Well, I can see it intellectually. Therapist: But?
+Margaret: I still think if she really liked me, she would have included me.
+Therapist: So what does it mean that she didn’t include you? Margaret: It means I’m not good enough.
+
+Here, Andrew discovers that Margaret doesn’t really believe the adaptive response because of her belief “If people don’t include me in something, it means I’m not good enough.”
+   To summarize, having evaluated an automatic thought, ask clients to rate how much they believe the adaptive response and how they feel emotionally. If their belief is low and they are still distressed, conceptualize why examining the thought didn’t alleviate their distress, and plan a strategy for what to do next.
+
+ALTERNATE METHODS TO ADDRESS AUTOMATIC THOUGHTS
+There are many other techniques to help clients assess their thinking (Dobson & Dobson, 2018; Leahy, 2018; Tolin, 2016). To name just a few, you can
+* vary your questions,
+* identify the cognitive distortion,
+* design a behavioral experiment,
+* use self-disclosure, and/or
+* ask clients to compose a helpful response.
+
+
+These strategies are described below.
+
+Using Alternative Questions
+When you predict that standard questions won’t be effective enough, vary your line of questioning.
+
+Judith: [summarizing] So you called your ex-wife to try to get her to sign the papers. What went through your mind when she got angry?
+Abe: I should have known she’d get angry. I should have waited to call her.
+Judith: What makes you think you shouldn’t have called? Abe: Well, she’s usually in a bad mood on Sunday nights. Judith: Had that occurred to you?
+Abe: Well, yeah, but I wanted to let my daughter know right away if she could count on us to help her out with her car loan. She really needed to know.
+Judith: So you actually had a reason for calling when you did, and it sounds as if you knew it might be risky, but you really wanted to let Kaitlyn know as soon as you could?
+Abe: Yeah.
+Judith: Is it reasonable to be so hard on yourself for taking the risk? Abe: No . . .
+Judith: You don’t sound convinced. How bad is it anyway, in the scheme of things, for your ex-wife to be mad at you?
+
+   I followed up these questions with others: “How reasonable was it for you to bring this up with your ex-wife? How reasonable was it for her to get angry? How does she probably feel now? Is it possible for you to always avoid getting her angry? Can you possibly do what is good for you and your children and grandchildren without getting her angry?”
+   These nonstandard questions helped Abe adopt a more functional perspective. Although I started out questioning the validity of the thought, I shifted the emphasis to the implicit underlying belief (which we had previously discussed in other contexts): “I should be able to avoid having others get upset with me.” At the end, I asked Abe an open-ended question (“How do you see the situation now?”) to see whether he needed more help in responding to his thoughts. Note that many questions I asked were a variation of the Socratic question “Is there an alternative explanation [for why you called when you did and for why your ex-wife was angry, other than that you were at fault]?”
+
+Identifying Cognitive Distortions
+Clients tend to make consistent errors in their thinking. Often there is a systematic negative bias in the cognitive processing of clients who suffer from a psychiatric disorder (Beck, 1976). The most common errors are presented in Figure 14.3 (see also Burns, 1980). It sometimes helps to label distortions and to teach clients to do the same. Be sure to tell them that the categories overlap and they may find that some automatic thoughts contain more than one distortion. Before providing the client with a list, you might start by making mental notes of his or her most common distortions and then point out a specific distortion when you spot a pattern:
+“Abe, this idea that either you’re a total success or you’re a failure— that’s what we call all-or-nothing thinking. Does it seem familiar? I remember you also had the idea that because you hadn’t been able to do all your new job responsibilities at work it meant you had completely failed. And that if you’re not doing everything you can for your grandchildren, then you’re a failure as a grandfather. Do you think it could be helpful to watch out for this kind of thinking?”
+
+
+FIGURE 14.3. Thinking errors. Adapted with permission from Aaron T. Beck:
+/ List of errors, their definition and an example for each one:
+* Error: All-or-nothing thinking
+Definition: Also called black-and-white, polarized, or dichotomous thinking. You view a situation in only two categories instead of on a continuum.
+Example: “If I’m not a total success, I’m a failure.”
+* Error: Catastrophizing (fortune-telling)
+Definition: Also called fortune-telling. You predict the future negatively without considering other, more likely outcomes.
+Example: Example: “I’ll be so upset, I won’t be able to function at all.”
+* Error: Disqualifying or discounting the positive
+Definition: You unreasonably tell yourself that positive experiences, deeds, or qualities do not count.
+Example: “I did that project well, but that doesn’t mean I’m competent; I just got lucky.”
+* Error: Emotional reasoning
+Definition: You think something must be true because you “feel” (actually believe) it so strongly, ignoring or discounting evidence to the contrary.
+Example: “I know I do a lot of things okay at work, but I still feel like I’m a failure.”
+* Error: Labeling
+Definition: You put a fixed, global label on yourself or others without considering that the evidence might more reasonably lead to a less extreme conclusion.
+Example: “I’m a loser”; “He’s no good.”
+* Error: Magnification/minimization
+Definition: When you evaluate yourself, another person, or a situation, you unreasonably magnify the negative and/or minimize the positive.
+Example: “Getting a mediocre evaluation proves how inadequate I am. Getting high marks doesn’t mean I’m smart.”
+* Error: Mental filter
+Definition: Also called selective abstraction. You pay undue attention to one negative detail instead of seeing the whole picture.
+Example: “Because I got one low rating on my evaluation [which also contained several high ratings], it means I’m doing a lousy job.”
+
+
+* Error: Mind reading
+Definition: You believe you know what others are thinking, failing to consider other, more likely possibilities.
+Example: “He’s thinking that I don’t know the first thing about this project.”
+* Error: Overgeneralization:
+Definition: You make a sweeping negative conclusion that goes far beyond the current situation.
+Example: “Because I felt uncomfortable at the meeting, I don’t have what it takes to make friends.”
+* Error: Personalization
+Definition: You believe others are behaving negatively because of you, without considering more plausible explanations for their behavior.
+Example: “The repairman was curt to me because I did something wrong.”
+* Error: “Should” and “must” statements
+Definition: Also called imperatives. You have a precise, fixed idea of how you or others should behave, and you overestimate how bad it is that these expectations are not met.
+Example: “It’s terrible that I made a mistake. I should always do my best.”
+* Error: Tunnel vision
+Definition: You only see the negative aspects of a situation.
+Example: “My son’s teacher can’t do anything right. He’s critical and insensitive and lousy at teaching.”
+/
+
+
+   Identifying distortions can help clients gain distance from their thoughts. But as with all techniques, make sure it’s helpful to clients, they understand the rationale, and they don’t feel overwhelmed by the list. I see it as a helpful strategy for many clients, but it’s not essential. It’s especially important to review the list in session so you can make sure clients understand how to use it before you ask them to label their distortions as part of their Action Plan.
+At our next session, I gave Abe the list, and together we identified his typical automatic thougvhts and the distortions they represented. For example:
+Catastrophizing: “I’ll never get another job.”
+All-or-nothing thinking: “Since my apartment is messy, it means it’s completely out of control.”
+Mind reading: “My friend doesn’t want to be around me.” Emotional reasoning: “I feel like such a failure; I must be a failure.”
+
+I circled these four distortions on the list and suggested Abe see whether any of his automatic thoughts in the coming week contained one or more of these errors. Abe kept this list handy and referred to it when he was evaluating his automatic thoughts. Doing so helped him believe more strongly that perhaps an automatic thought was not true, or not completely true.
+
+Designing Behavioral Experiments
+Discussing the validity of clients’ ideas that are in the form of predictions can help them change their thinking, but the change may be significantly more effective if the client has an experience that disconfirms its validity (Bennett-Levy et al., 2004). Socratic questioning may be insufficient, but it can help you decide whether it might be desirable to do a behavioral experiment. Abe had the automatic thought “I don’t have enough energy to go to the homeless shelter [to volunteer].” First, we examined that thought and found that it was probably inaccurate. Then we did problem solving; we decided that Abe could plan to go for just 30 minutes and then leave if he ran out of energy. Next, we set up a behavioral experiment to see whether he would be able to follow through with this plan.
+   You design behavioral experiments collaboratively. When feasible, suggest that clients do the experiment right in the session to test cognitions such as the following:
+* “If I tell you about how I was abused, I’ll get so upset that I’ll go crazy.”
+* “If my heart starts to pound and I’m short of breath, I’ll have a heart attack.”
+* “If I try to read, I won’t be able to concentrate.”
+
+Other experiments need to be done outside of session:
+* “If I ask my sister for help, she’ll turn me down.”
+* “If I stay in bed all day, I’ll feel better.”
+* “If I try to pay my bills, I’ll make too many mistakes.”
+* “If I ask my boss a question, he’ll get annoyed and fire me.”
+
+   Make sure to help clients draw adaptive conclusions after having done a successful behavioral experiment. Here are some questions you can ask:
+* “What did you make of that experience?” or “What did you learn?” or “What do you conclude?”
+* “What does this experience mean about you [or about other people or about how other people view you]?”
+* “What does this experience probably mean about the future?”
+
+Using SelfDisclosure
+At times, you might use judicious self-disclosure instead of or in addition to Socratic questioning or other methods, to demonstrate how you were able to change similar automatic thoughts of your own, as illustrated below:
+“You know, Abe, sometimes I have thoughts like yours: ‘I have to do the responsible thing.’ But then I remind myself that I have a responsibility to take care of myself and that the world probably won’t end if I can’t do everything someone else wants me to. (pause) Do you think that applies to you too?”
+
+Asking Clients for a Helpful Response
+Finally, there are times when you can simply ask clients how they’d like to respond to an automatic thought. Sometimes they can come up with an effective response early in treatment. Sometimes you’ll need to wait until they’ve made more progress.
+
+Abe: When it’s time to go to the reunion, I’ll probably want to skip it. Judith: Can you think of a more helpful way to view this?
+Abe: Yeah. That it’s better for me to go, even if I have to push myself. I could reconnect with people that were important to me.
+Judith: Good. What do you think will happen if you say that to yourself?
+Abe: I’ll be more likely to go.
+
+Here’s another example:
+
+Judith: Anything you can think of that might get in the way of telling your ex-wife that you don’t want to change your holiday plans?
+Abe: I don’t want her to get her angry.
+Judith: Okay, if you do have the thought “I don’t want to get her angry,” what do you want to be able to tell yourself?
+Abe: That if this doesn’t get her angry, something else will. And I should do what’s good for me—not accommodate her all the time.
+Judith: Good! Will that be enough, do you think, to go ahead and tell her you’re not changing the plan?
+
+WHEN AUTOMATIC THOUGHTS ARE TRUE
+Sometimes automatic thoughts turn out to be true, and you may choose to do one or more of the following:
+* Focus on problem solving.
+* Investigate whether the client has drawn an invalid or dysfunctional conclusion.
+* Work on acceptance and refocus on valued action.
+
+
+These strategies are described below.
+
+Focus on Problem Solving
+If a client’s perception of a situation appears to be valid, you might investigate whether the problem it’s associated with can be solved, at least to some degree. In one session, Abe and I evaluate his automatic thought “If I don’t get a job soon, I won’t have enough money to pay my rent,” and the evidence does indicate that this is a possibility.
+
+Judith: So even if you’re careful, it looks as if you might not be able to come up with rent toward the end of the year. Is it possible that you’ll have a job by then?
+Abe: It’s possible, but what if I don’t?
+Judith: Have you thought of what you could do if that happened? Abe: Well, I don’t want to have to move in with one of my kids.
+Judith: But you might be able to, as a last resort?
+Abe: I suppose so . . .
+Judith: Have you thought of anything else?
+Abe: No, I don’t think there’s anything else I can do.
+Judith: Have you considered getting any kind of job now? It could be part time or full time. Just until you find one that you really want?
+Abe: No, I’ve been pretty focused on getting the kind of job I used to have.
+Judith: What do you think of the idea?
+Abe: I don’t know. I’m so tired these days.
+Judith: Do you think you’d need as much energy if the job were just part time? What’s the worst that could happen if it turns out you are too tired?
+Abe: I guess it wouldn’t be a big deal. I could just quit.
+Judith: Do you want to make that part of your Action Plan this week? If it turns out you can’t work at all, we can brainstorm other ideas: maybe you could get a roommate or a less expensive apartment, or move in with someone else temporarily; maybe you could borrow money from your brother, even though I know you don’t want to. (pause) And there might be other things you could do that you haven’t thought of because you’ve been so depressed.
+
+Investigate Invalid Conclusions
+While an automatic thought might be true, the meaning of the thought to the client may be invalid or at least not completely valid (as illustrated below), and you can examine the underlying belief or conclusion.
+
+Judith: So it looks as if you really can’t concentrate well enough to do your taxes.
+Abe: Yeah, I feel so bad about it.
+Judith: What does it mean about you that you can’t? Or what are you afraid will happen?
+Abe: It shows there’s something wrong with my brain. I might never get my concentration back.
+Judith: Okay, can we look at that first? Is there another explanation for your difficulty in concentrating?
+
+Work toward Acceptance and Valued Action
+Some problems can’t be solved and may never be solved, and clients may need help in accepting that outcome. They are likely to feel miserable if they have unrealistic expectations that an unresolvable problem will somehow, almost magically, improve. Meanwhile, they usually need assistance in learning to focus on their core values, pursue valued action, emphasize the more rewarding parts of their lives, and enrich their experience in new ways. Multiple strategies designed to enhance acceptance can be found in Hayes and colleagues (2004).
+
+SUMMARY
+It’s important to address key automatic thoughts that lead to significant negative emotion or dysfunctional behavior. These thoughts are either inaccurate or unhelpful or both. Evaluating automatic thoughts is a specific skill, one at which both therapists and clients improve with repeated practice. Refrain from challenging clients’ automatic thoughts and become adept at using several techniques to help clients assess the accuracy and utility of their thoughts. When automatic thoughts are true, you can evaluate clients’ conclusions about a problem, do problem solving, or employ acceptance strategies with a focus on valued action to reduce clients’ distress.
+
+REFLEC T ION QUES T IONS
+What would you like to tell yourself if you become frustrated when learning the skill of evaluating automatic thoughts? What would you want a client to believe?
+
+PRACTICE EXERCISE
+Write down the answers to the list of questions in Figure 14.1 to evaluate one of your own automatic thoughts. Then record your answers to the questions in Figure 14.2 to evaluate another thought.

@@ -1,0 +1,324 @@
+17
+INTRODUCTION TO BELIEFS
+In previous chapters, you learned how to identify and modify automatic thoughts, the actual words or images that go through a client’s mind in a given situation and lead to distress or unhelpful behavior. This chapter, and the next, describes the deeper, often unarticulated ideas or understandings depressed clients have about themselves, others, their world, and their future that give rise to specific automatic thoughts. These ideas are often not expressed before therapy, but for the most part, you can easily elicit or infer and then test them. Traditional CBT puts a greater emphasis on the maladaptive (negative, unhelpful, dysfunctional) beliefs clients have when they’re in the depressed mode. In a recovery orientation, adaptive (positive, helpful, functional) beliefs are emphasized to move clients to the adaptive mode (Beck, Finkel, & Beck, 2020).
+   As described in Chapter 3, beliefs may be classified in two categories: intermediate beliefs (composed of rules, attitudes, and assumptions) and core beliefs (global ideas about oneself, others, and/or the world). Maladaptive intermediate beliefs, while not as easily modifiable as automatic thoughts, are still more malleable than core beliefs. As you will learn in the next chapter, you’ll use similar techniques to modify beliefs at both levels.
+This chapter answers the following questions:
+* What are adaptive (positive) and maladaptive (negative) core beliefs, schemas, and modes?
+* How do you identify adaptive and maladaptive core beliefs and intermediate beliefs?
+* How do you decide whether and when to modify a maladaptive belief?
+* How do you educate clients about maladaptive beliefs?
+* How do you motivate clients to change their beliefs?
+
+CORE BELIEFS, SCHEMAS, AND MODES
+Core Beliefs and Schemas
+Core beliefs are one’s most central ideas about the self, others, and the world. Adaptive beliefs are realistic and functional and not at an extreme. Dysfunctional core beliefs are rigid and absolute, maintained through maladaptive information processing. Some authors refer to these beliefs as schemas. Beck (1964) differentiates the two by suggesting that schemas are cognitive structures within the mind. Schemas, in the Piagetian sense, have various characteristics: permeability (receptivity to change), magnitude (size compared to the individual’s general self-concept), charge (low to high, indicating levels of strength), and content (Beck, 2019). The content of schemas may be cognitive (expressed in beliefs), motivational, behavioral, emotional, or physiological.
+   People start developing core beliefs from a very early age, influenced by their genetic predisposition, their interaction with significant others, and by the meaning they put to their experiences and circumstances. Then, when a thematically related situation arises, the schema containing one of these core beliefs becomes activated (Figures 17.1 and 17.2). In a depressed state, clients’ negative schemas can be continuously activated. For example, before the onset of his acute episode, Abe had seen himself as a reasonably competent person. But as he was becoming depressed, he started to see himself as incompetent.
+   Once a schema is activated, three things generally happen:
+1. The client interprets this new experience in accordance with the core belief.
+2. The activation of the schema strengthens the core belief.
+3. Other kinds of schemas become activated too.
+
+   One reason we emphasize modifying dysfunctional cognitive (and also behavioral) schemas in traditional CBT is their impact on the other schemas.
+
+
+FIGURE 17.1. Impact of adaptive schema activation:
+/ 
+Lifetime experiences: Abe did well enough at school, excelled at sports, was very helpful to others, got excellent job reviews, was a good problem-solver, and worked hard. --> Core belief: “I’m competent.” -->Historical situation: Thinking about new responsibilities as a supervisor --> Schema: [Interpretation of experience through screen of core belief --> Automatic thought: “I’ll do a good job.” --> Reaction]
+/
+
+
+Modes
+Clusters of interrelated and co-occurring schemas are termed “modes.” At every session, we seek to deactivate the depressive (or “client/ patient”) mode and activate the adaptive mode (Beck et al., 2020).
+
+The Adaptive Mode
+For much of their lives, most people maintain primarily realistic and balanced core beliefs that are at least somewhat positive (e.g., “I am substantially in control”; “I can do most things competently”; “I am a functional human being”; “I can protect myself when I need to”; “I am generally likable”; “I have worth”). When clients are in an adaptive mode, schemas are more functional; their beliefs more realistic (see Figure 3.1, p. 31) and flexible. Their negative core beliefs tend to be relatively latent. The adaptive mode has
+* cognitive schemas such as effectiveness, lovability, and worth;
+* motivational schemas to promote activity;
+* affective schemas of hope, optimism, sense of well-being and purpose, and satisfaction;
+* behavioral schemas of approach (and sometimes healthy avoidance); and
+* physiological schemas of normal levels of energy, appetite, libido, and so forth.
+
+
+FIGURE 17.2. Impact of maladaptive schema activation:
+/
+Lifetime experiences: Mother yelled when the house was messy or brothers were out of control. --> Core belief: “I’m incompetent.” --> situation: Thinking about unpaid bills --> Schema: [Interpretation of experience through screen of core belief --> Automatic thought: “I can’t believe I haven’t paid them yet.”--> Reaction]
+/
+
+
+
+When clients operate in this mode, they tend to interpret their experiences clearly, without a great deal of distortion. They may have ups and downs in their moods, but they function more highly than when they are in a depressive mode.
+
+The Depressive Mode
+When clients are in the depressive mode, their schemas are dysfunctional, their beliefs more distorted and extreme (Figure 3.2, p. 33). Their positive beliefs tend to be latent. The depressive mode has:
+* cognitive schemas such as helplessness, unlovability, and worthlessness;
+* motivational schemas to conserve energy;
+* affective schemas of sadness, hopelessness, and sometimes irritability, guilt, anger, and/or anxiety;
+* behavioral schemas of avoidance and withdrawal; and
+* physiological schemas of fatigue, decreased (or increased) appetite, and decreased libido, among others (Clark et al., 1999).
+
+
+   Beck (1999) theorized that negative core beliefs about the self fall into two broad categories: those associated with helplessness and those associated with unlovability. A third category, associated with worthlessness (Figure 3.2), has also been described (J. S. Beck, 2005). When clients are depressed, their negative core beliefs may primarily fall into one of these categories, or they may have core beliefs in two or all three categories. Some have just one belief within a category; others have multiple beliefs within one category.
+   Sometimes it’s clear in which category a given negative core belief belongs, especially when clients actually use words such as “I am helpless” or “I am unlovable.” At other times, it’s not as clear. For example, depressed clients may say, “I’m not good enough.” You need to find out the meaning of cognitions like these to determine whether clients believe they are not good enough because they haven’t achieved enough (helpless category), or if they believe they’re not good enough for others to love them (unlovable category). Likewise, when clients say, “I’m worthless,” they may mean that they don’t achieve highly enough (helpless category) or that they won’t be able to gain or maintain love and intimacy with others because of something within themselves (unlovable category). The cognition “I’m worthless” falls in the worthlessness category when clients are concerned with their immorality or toxicity, not their effectiveness or lovability.
+
+Core Beliefs about Others, the World, and the Future
+Clients without psychological problems generally have balanced views of other people and the world (e.g., “I can trust many people but not everyone”; “Most people will be either neutral or benign toward me, though some might not”; “Many parts of my world are safe enough but other parts can be dangerous”; “The world is complex, with good, neutral, and bad parts”). Individuals with psychological difficulties, though, may have negative and relatively absolutistic core beliefs about other people and their worlds: “Other people are untrustworthy/ superior to me/critical”; “Other people will hurt me”; “The world is a rotten place”; “The world is dangerous.”
+   When individuals aren’t depressed, they generally have a balanced view of the future, understanding that they will have many positive, neutral, and negative experiences. When clients are depressed, though, they usually see their future as dark, as unremittingly unhappy, as having little or no satisfaction or pleasure, and as being beyond their control.
+   Fixed, overgeneralized negative ideas often need to be evaluated and modified, in addition to negative core beliefs about the self. Ideas that are more reality based often need to be strengthened by, for example, asking clients to draw conclusions about their neutral and positive experiences (“What does this experience show about you? About others? About the world? What does it say about what your future could be like?”).
+
+Abe’s Core Beliefs
+Before Abe became depressed, he recognized when he was acting competently and being effective. He encountered some situations that were similar to those he faced during his depression. But the schemas containing his adaptive beliefs were activated and so he interpreted those situations differently. He viewed signs of possible incompetence as situation specific; for example, when he made a minor error, he thought, “Oh, I shouldn’t have made that mistake. Oh, well,” and his mood didn’t drop. When he forgot his daughter’s anniversary, he thought, “No wonder I forgot. Things have been so busy recently.”
+   As Abe was becoming depressed, his positive schemas became deactivated and his negative schemas containing the cognitions “I am incompetent/a failure” and “I am helpless/out of control” became almost fully activated. When he was firmly in the depressive mode, he interpreted situations in a highly negative, global way, as confirming these negative beliefs. Seeing himself as incompetent or ineffective was very distressing to Abe; it violated his important, strongly held values. He had always prided himself on being responsible and productive and doing a good job. He perceived that he could no longer fulfill those important values. As illustrated by the information-processing model on page 34, Abe began to overemphasize and overgeneralize negative data, contained in negative rectangles, continually reinforcing his belief that he was incompetent and a failure. For example, he got an overdue notice for a bill in the mail. He immediately understood this information as confirming his incompetence.
+   At the same time, Abe failed to recognize a significant amount of positive data related to his schema of relative effectiveness—such as continuing some of his usual activities even though the depression made it very difficult to do so (e.g., researching which appliance his daughter should buy for her kitchen). Note that had he become overwhelmed by the choices, he would have interpreted that experience in a negative light, as confirming his maladaptive core belief. These positive triangles “bounced off” the schema and did not get incorporated. Abe also discounted much positive information through his “Yes, but . . .” interpretations of his experiences (“Yes, I finally got rid of all the papers that had piled up in the living room, but I should never have let it get so bad”). When he successfully negotiated a reduction in his cable bill the next day, his mind automatically discounted this positive evidence too (“I should have done this months ago”). These two experiences were contrary to his negative core beliefs. Their positive triangles were, in essence, changed into negative rectangles.
+   Abe was not consciously processing information in this dysfunctional way. This kind of information processing is a symptom of depression and arises automatically. I recognized that it would be important to work directly on modifying Abe’s negative core beliefs, not only to alleviate his current depression, but also to prevent or reduce the severity of future episodes.
+
+CLINICAL TIPS
+We usually work both indirectly and directly on strengthening positive core beliefs early in treatment. Most clients aren’t ready to directly evaluate their negative core beliefs though until somewhat later in treatment. If you try to evaluate a negative belief too early, the client might think, “[My therapist] doesn’t understand me. If she did, she would know [that my core belief is true].” Eliciting strong, negative beliefs can trigger intense negative emotion that could lead to early dropout from treatment.
+
+
+
+IDENTIFYING ADAPTIVE CORE BELIEFS
+You start identifying core beliefs that are more realistic and adaptive as early in treatment as possible. At the evaluation or first session, you can ask clients to describe the best period in their life. Then ask them how they viewed themselves during that period, and if relevant, how they viewed others and the world. Also ask how other people viewed them.
+
+Judith: Abe, looking back at your history, when were you at your best? Abe: I guess that would have been after high school.
+Judith: Why was that your best time?
+Abe: I had moved out of the house. I liked living independently. My best friend was my roommate. I was working in construction and the foreman really liked my work.
+Judith: What else?
+Abe: (Thinks.) Well, I was in really good shape, I had a lot of girlfriends— until I met my wife, that is. I liked hanging around with my buddies . . .
+Judith: How did you see yourself? Abe: As a good guy.
+Judith: As likeable, helpful, worthwhile? Abe: Yeah.
+Judith: As competent? In control? Abe: Yeah, pretty much.
+Judith: Did other people see you that way too? Abe: (Thinks.) Yeah, they probably did.
+Judith: So, you had a pretty healthy view of yourself and so did others; sounds like it was pretty accurate too.
+Abe: I guess so.
+Judith: Is that how you see yourself now?
+Abe: Not at all. I just feel like I can’t do anything right. I’m a failure.
+Judith: Part of what we’re going to do in therapy is to find out whether this idea, that you’re a failure, is accurate, or whether it’s actually a depressed idea. Maybe you’re a competent person who is currently depressed.
+
+   At a future session, you can ask clients about their view of themselves before they became depressed. (The list of positive qualities on page 47 can help.) It’s useful to attribute their deterioration in functioning as due to their condition, instead of to their innate characteristics.
+
+Judith: Can we talk about the time before Joseph was hired, when you were doing well at your job? How did you see yourself? Did you think you were incompetent, a failure?
+Abe: No; I mean, I wasn’t perfect, but I did a good job. Judith: So was your belief “I’m basically competent”? Abe: Yeah.
+Judith: Good. Now the depression is interfering with your being able to act as competently as you’d like. And I’ll help you with that. But I want you to know that you haven’t lost your competence. You haven’t become an incompetent person. It’s your depression. Okay?
+Abe: (Nods.)
+Judith: Am I right about this? Even though your depression is strong, you’re still getting up every day? You’re getting dressed and taking care of your basic needs? You’re going to your grandsons’ games and helping your cousin? (pause) Do these things show you’re competent at least in these ways?
+Abe: Yeah, I guess so.
+Judith: And as you recover, you’ll be able to act more and more competently and productively.
+
+
+CLINICAL TIPS
+When clients can’t express their former adaptive beliefs, you mentally devise a new, more realistic, and functional belief and guide clients toward it. This belief should be balanced. For example:
+Old core belief 1: “I’m (completely) unlovable.”
+New core belief 1: “I’m generally a likable person.”
+
+Old core belief 2: “I’m bad.”
+New core belief 2: “I’m okay.”
+
+Old core belief 3: “I’m powerless.”
+New core belief 3: “I have control over a lot of things.”
+
+Old core belief 4: “I’m defective.”
+New core belief 4: “I’m normal, with both strengths and weaknesses.”
+
+IDENTIFYING MALADAPTIVE CORE BELIEFS
+Several strategies are useful in eliciting clients’ negative core beliefs, including:
+* looking for central themes in their automatic thoughts,
+* using the “downward arrow” technique, and
+* watching for core beliefs expressed as automatic thoughts.
+
+
+Looking for Central Themes in Automatic Thoughts
+Whenever clients present data (problems, automatic thoughts, emotions, behavior, history), you “listen” for the category of core belief whose schema seems to have been activated. For example, when Abe expresses negative thoughts about being unable to apply for jobs, about wasting his time by watching television, and about making mistakes in paying bills, I hypothesize that a core belief in the helpless category has been operating. When Maria expresses anxiety about calling a friend, when she consistently expresses thoughts of others not caring about her, and when she fears there’s something wrong with her and so she won’t be able to sustain a relationship, I hypothesize that a core belief in the unlovable category has been activated. (Actually, it’s more correct to say that the schema that contains the core belief has been activated.)
+   Early in treatment, you may hypothesize just to yourself. Sharing your hypotheses about clients’ core beliefs may evoke strong emotion, and they may begin to feel unsafe. Later in treatment, you might review with clients related automatic thoughts they’ve had in a variety of situations and then ask them to draw a conclusion as to an underlying pattern (“Abe, do you see a common theme in these automatic thoughts?”). When confirming a hypothesis you’ve made with clients, it’s important to figure out which category a core belief falls into and which word or words clients themselves use. It’s also important to
+ascertain whether the client is using different words to express the same belief.
+
+Judith: Abe, when you say you’re a failure, is that the same idea as when you say you’re incompetent? Or are they different?
+Abe: It’s really the same. I’m a failure because I’m so incompetent.
+
+The Downward Arrow Technique
+The downward arrow technique helps you identify clients’ negative core beliefs. It involves asking clients to assume their automatic thoughts (ones with recurrent themes) are true and then questioning them about the meaning of their automatic thoughts. Doing so can arouse increased negative emotion though, so you usually wouldn’t use this technique in the first few therapy sessions.
+First, identify a key automatic thought whose theme is recurrent; then find out what clients believe this thought means about them.
+
+Judith: Okay, to summarize, you were looking around your apartment and you thought, “It’s so messy. I should never have let it get this way?”
+Abe: Yes.
+Judith: We haven’t looked at the evidence to see if these thoughts are true. But I’d like to see if we can figure out why you had those thoughts. Let’s assume for a moment that your apartment is too messy and you shouldn’t have let it get like that. What would that mean about you?
+Abe: I don’t know. I just feel so incompetent.
+
+You can phrase the downward arrow question in different ways:
+* “If that’s true, so what?”
+* “What’s so bad about . . .?”
+* “What’s the worst part about . . .?”
+
+
+Worded in these ways, clients may respond with another automatic thought or an intermediate belief. If so, you can ask what this new cognition means about them if you want to get to the negative core belief about the self.
+
+Core Beliefs Expressed as Automatic Thoughts
+A client may actually articulate a belief as an automatic thought, especially when depressed.
+
+Judith: What went through your mind when you realized you got a late fee because you had forgotten to pay the bill?
+Abe: I can’t do anything right. [automatic thought] I’m so incompetent. [automatic thought and core belief]
+
+CLINICAL TIPS
+When clients have difficulty identifying their negative core beliefs, these techniques may help. You can hypothesize about a belief and ask the client to reflect on its validity:
+“Maria, in a bunch of situations you seem to think, ‘People won’t want to be with me’ or ‘What if I say the wrong thing?’ I wonder whether you believe that you are somehow unlovable or unlikable?”
+
+Or you can present them with the list of core beliefs on page 33.
+
+Judith: Maria, what did it mean to you when you realized the whole day had gone by and you hadn’t gotten much done? What did that say about you?
+Maria: I’m not sure. I was just so upset.
+Judith: Could you look at this list of core beliefs and tell me whether any of the words capture how you were feeling about yourself?
+
+CLINICAL TIPS
+The problematic situation itself is not always a good guide to what clients’ core beliefs are. For example, a client is frustrated by her inability to get others to listen to her. Although her distress occurs only in interpersonal situations, she doesn’t believe she is unlovable; she believes she is powerless to get what she wants from others. Another client feels like a worthless human being, not because he cannot achieve or be useful (helpless beliefs) and not related to his relationships (which otherwise could have indicated an unlovable belief). He believes he is a bad, immoral person, a sinner (which is in the worthless category) because of his highly negative innate qualities.
+
+IDENTIFYING MALADAPTIVE INTERMEDIATE BELIEFS
+In Chapter 3, we discussed three categories of intermediate beliefs: assumptions, attitudes, and rules. There are several techniques you can use to identify them.
+* Recognizing when intermediate beliefs are expressed as automatic thoughts.
+* Directly eliciting an intermediate belief.
+* Reviewing a belief questionnaire.
+
+Recognizing When Intermediate Beliefs Are Expressed as Automatic Thoughts
+Most automatic thoughts are situation specific—for example: “I shouldn’t have let my friend down when he asked me to help him with his mother”; “It’s really bad that I forgot my niece’s birthday”; “If I try to help my daughter with her class project, I’ll do a poor job.” But some automatic thoughts express more general ideas—for example: “It’s terrible to let people down”; “I should always do my best”; “If I try to do anything difficult, I’ll fail.” These latter cognitions are relevant across multiple situations and so are both automatic thoughts and intermediate beliefs.
+
+Directly Eliciting an Intermediate Belief
+Many intermediate beliefs contain a dysfunctional coping strategy. You can identify these beliefs by asking clients directly about these behavioral patterns. The general question focuses on the meaning or outcome of using the behavior or not using the behavior. Or you can start with a rule or attitude and ask questions to change it into an assumption. We often do this to find out why the client holds this rule or attitude; assumptions link the behavior to the core belief. Here are a few examples of the kinds of questions you can ask:
+
+Therapist: What’s your belief about asking for help? [Avoiding asking for help is a coping strategy.]
+Client: Oh, asking for help is a sign of weakness, incompetence.
+Therapist: What’s the worst that could happen if you don’t try to look your best? [“I should always look my best” is the client’s rule.]
+Client: People will think I’m unattractive; they won’t want me around.
+Therapist: What would it mean to you if you didn’t achieve highly? [“I have to achieve highly” is the rule; “It’s terrible to be mediocre” is the client’s attitude.]
+Client: It shows I’m inferior to other people.
+Therapist: What’s bad about experiencing negative emotion? [“I shouldn’t let myself get upset” is the rule; “It’s bad to experience
+negative emotion” is the attitude.] Client: If I do, I’ll lose control.
+Therapist: What are the advantages of not sticking out in a crowd?
+[Avoiding sticking out in a crowd is a coping strategy.] Client: People won’t notice me. They won’t see that I don’t fit in.
+Therapist: How would you fill in this blank? If I even try to make plans with other people, then …? [Avoiding making plans is a coping strategy.]
+Client: They’ll turn me down because I have nothing to offer them.
+
+   Evaluation of conditional assumptions through questioning or other methods often creates greater cognitive dissonance than does evaluation of the rule or attitude. It is easier for Abe to recognize the distortion and/or dysfunctionality in the assumption “If I please other people, they won’t hurt me” than the related rule (“I should please others all the time”) or attitude (“It’s bad to displease others”).
+
+Reviewing a Belief Questionnaire
+Questionnaires can also help you identify clients’ beliefs (see, e.g., the Dysfunctional Attitude Scale [Weissman & Beck, 1978] or the Personality Belief Questionnaire [Beck & Beck, 1991]). Many clients in particular hold important beliefs about experiencing negative emotion (see Leahy, 2002). Careful review of items that are strongly endorsed can highlight problematic beliefs.
+
+DECIDING WHETHER TO MODIFY A  DYSFUNCTIONAL BELIEF
+Having identified an intermediate or core belief, you need to figure out whether it’s worth spending time on. You usually work on beliefs linked with an issue a client has put on the agenda or with an obstacle to reaching a goal. Here are some questions to ask yourself:
+* “What is the belief?”
+* “Does it lead to significant emotional distress or significant maladaptive behavior?”
+* “Does the client believe it strongly and broadly?”
+* “Does it significantly interfere with achieving his/her goals and aspirations or engaging in valued action?”
+
+When clients strongly endorse more than one negative belief about an issue or obstacle, you usually focus on the one that is associated with the greatest degree of negative emotion or dysfunctional behavior.
+
+DECIDING WHEN TO MODIFY A  DYSFUNCTIONAL BELIEF
+At the beginning of treatment, you work on automatic thoughts whose theme is indicative of a dysfunctional core belief. You begin to work directly on modifying the negative core belief as early in treatment as possible. Once clients change these beliefs (or decrease the intensity of these beliefs), they’re able to interpret their experiences in a more objective, functional way. They begin to view situations more realistically, feel better, and act more adaptively. But you may need to wait until the middle of treatment to do this with some clients, especially those with beliefs that are long-standing, rigid, and overgeneralized.
+   In this latter case, you’ll teach clients the techniques of identifying, evaluating, and adaptively responding to automatic thoughts before using the same tools for dysfunctional beliefs. Note that you may unwittingly try to evaluate a core belief early in treatment because it has been expressed as an automatic thought. Such evaluation may have little effect.
+   Having identified an important dysfunctional belief, you can ask yourself these questions to figure out whether to work on the belief at the time:
+* “Does the client believe that cognitions are ideas and not necessarily truths, and that evaluating and responding to these kinds of ideas helps them feel better and/or act in a more functional way?”
+* “Will the client be able to cope with the distress she is likely to feel when the core belief is exposed?”
+* “Will the client be able to evaluate the belief with at least some objectivity?”
+* “Is the therapeutic relationship strong enough? Does the client trust me and perceive me as understanding who he really is? Do I have credibility with the client?”
+* “Will we have enough time in the session today to make at least a little progress in evaluating the belief?”
+
+
+EDUCATING CLIENTS ABOUT  DYSFUNCTIONAL BELIEFS
+You’ve identified an intermediate or core negative belief, determined that it is significantly distressing to the client and is associated with significant impairment, and collaboratively decided that the time is right for you to start working on it. Next, you may decide to educate the client about the nature of beliefs in general, using a specific belief as an example.
+
+Important Concepts about Beliefs
+It is important for clients to understand the following:
+* Beliefs, like automatic thoughts, are ideas, not necessarily truths, and can be tested and changed.
+* Beliefs are learned, not innate, and can be revised. There is a range of beliefs that the client could adopt.
+* Beliefs can be quite rigid and “feel” as if they’re true—but be mostly or entirely untrue.
+* Beliefs originated through the meaning clients put to their experiences as youth and/or later in life. These meanings may or may not have been accurate at the time.
+* When relevant schemas are activated, clients readily recognize data that seem to support their core beliefs, while discounting data to the contrary or failing to process the data as relevant to the belief in the first place.
+
+
+Posing a Hypothesis about the Problem
+When I educated Abe about his core belief, I suggested two possibilities about the problem. (He had previously confirmed the conceptualization I had presented.)
+
+Judith: [summarizing] It sounds as if this idea, that you’re incompetent, could get in the way of your applying for jobs. Is that right?
+Abe: Yeah.
+Judith: Can we talk about that idea for a moment? I’d like to figure out what’s going on. Either the problem is that you really are incompetent, and if so, we’ll work together to make you more competent . . . or maybe that’s not the problem at all. Maybe the problem is that you have a belief that you’re incompetent, when you’re really not. And sometimes the belief is so strong that it prevents you from even finding out whether you could do something well.
+Abe: I don’t know.
+Judith: I think there are two things we need to do. One is to have you recognize when you are being competent and set up more experiences where you can use your competence. The second is to see whether you really are incompetent when you feel incompetent.
+
+
+
+
+
+Using a Metaphor to Explain Information Processing
+Later I explain core beliefs to Abe, in small parts, making sure he understands as I proceed. I use the metaphor of a screen.
+
+Judith: This idea, “I’m incompetent,” is what we call a negative core belief. If it’s okay, I’d like to tell you about core beliefs. They’re more difficult to change than automatic thoughts.
+Abe: Okay.
+Judith: First of all, a negative core belief is an idea that you may not believe very strongly when you’re not depressed. On the other hand, we’d expect you to believe it almost completely when you are depressed, even if there’s evidence that it’s not true. (pause) Follow me so far?
+Abe: Yes.
+Judith: When you get depressed, this idea becomes quite strong. (motioning with my hands) It’s as if there’s a screen around your head. The idea that you’re incompetent is written on it a billion times. Anything that fits in with the idea that you are incompetent goes straight through the screen and into your mind. But any information that contradicts it doesn’t fit through. So you don’t even notice the positive information, or you discount it in some way so it will. (pause) Do you think you might be screening information like this?
+
+Next, I question Abe to see whether the metaphor seems to fit his experience.
+
+Judith: Well, let’s see. Looking back at the past few weeks, what evidence is there that you might be competent? Or what would I think you did competently?
+Abe: Umm . . . I figured out how to fix my grandson’s robot.
+Judith: Good! And did that evidence go right through the screen? Did you tell yourself, “I figured out how to fix the robot. That means I’m competent”? Or anything like that?
+Abe: No. I guess I thought, “It took me a long time to figure it out.” Judith: Oh, so it looks like the screen was operating. Do you see how you discounted the evidence that contradicted your core belief “I’m incompetent”?
+Abe: Hmm.
+Judith: Can you think of any other examples from this week? Situations where a reasonable person might think something you did showed you were competent, even if you didn’t?
+Abe: (Thinks for a moment.) Well, I helped out at the church. They’re fixing up the basement. But that doesn’t count; anyone could have done it.
+Judith: Good example. Again, it sounds as if you didn’t recognize evidence that didn’t fit with your idea “I’m incompetent.” I’m going to let you think about how true the idea is that anyone could have done what you did. Maybe this is another instance of not giving yourself credit, when another person might have thought it was evidence that you’re competent.
+Abe: Well, the minister thanked me a lot.
+Judith: And how many times this week did you take care of your basic needs: showering, brushing your teeth, eating meals, getting to bed at a reasonable hour?
+Abe: Every day.
+Judith: And how many times this week did you say something like “Brushing my teeth shows I’m competent”; “Getting my meals shows I’m competent”; and so on?
+Abe: None.
+Judith: What would you have said to yourself if you hadn’t done those things?
+Abe: Probably that I was incompetent.
+Judith: So do you think the screen was operating, discounting what you did or not even registering what you did?
+
+Determining When the Belief Originated or Became Maintained
+Next, I ask Abe about prior experiences in which he recalled having this belief.
+
+Judith: Do you remember feeling incompetent like this at other times in your life too? As a child?
+Abe: Yeah, sometimes. I remember my mother yelling at me because the house was messy or my brothers were out of control.
+Judith: Any other times?
+Abe: (Thinks.) Yeah, when I got my first job after high school. And, I guess, when I started the next job. But that was just for the first few weeks.
+Judith: Okay, just to summarize: “I’m incompetent” seems to be a core belief that started when you were a kid. But you didn’t believe it all the time. I’m guessing that for most of your life, until the depression set in, you’ve believed you’re reasonably competent. But now the screen is operating.
+
+Explaining Beliefs Using a Diagram
+Next, I hand drew the diagram in Figure 17.2 to summarize what we had discussed in this session.
+
+Judith: Abe, can I show you how all this looks on a diagram? Abe: I think that would help.
+Judith: Okay, we start with childhood experiences. It sounds as if you felt incompetent at times when your mother yelled at you. (Draws partial diagram.) Is that right?
+Abe: Yes.
+Judith: And now, when you’re depressed, is this how you understand what’s going on? If you don’t do something as well as you think you should have, it means to you that you’re incompetent? For example, this week you saw the bills on the table and you had the thought, “I can’t believe I haven’t paid them yet.” Is that right?
+Abe: Yes.
+Judith: Just to confirm, what did it mean to you that you hadn’t paid them?
+Abe: That I was incompetent.
+Judith: So, I think the experience looks like this. (Adds to diagram and shows it to Abe.) Now can you see why you had this automatic thought?
+
+MOTIVATING CLIENTS TO MODIFY DYSFUNCTIONAL BELIEFS
+Even suggesting that a dysfunctional belief may not be true, or not completely true, can be anxiety provoking for some clients. If so, you can draw a chart (see p. 328) and ask clients to identify advantages and disadvantages of maintaining their dysfunctional core belief and advantages and disadvantages of believing the more adaptive belief. Ask them what they conclude from this analysis.
+   When clients need additional motivation, you can ask them to visualize a day in their life several years from now, first having maintained their negative core belief as is, and then believing their new core belief for quite a long time. You can say something like this:
+“I’d like you to imagine a day in your life … years from now; so it’s the year …. You haven’t changed your core belief that you are …. So you’ve believed it day in and day out for … more years. It’s gotten stronger and stronger with each passing day, and week, and month, and year. (pause) Now I’d like to ask you some questions. (pause) See how well you can picture yourself and your experience in your mind’s eye.
+* “How do you feel about yourself?”
+* “How far along are you in achieving [each of your aspirations and goals]?”
+* “To what degree are you living in accordance with your values?”
+
+Next, tell clients:
+“I’d like you to imagine how your belief has affected various parts of your life. Remember, your core belief is so much stronger than it is today. Really try to picture each part of your life, as I ask you about it. And think about how much enjoyment or satisfaction you’ll likely be experiencing . . . Where do you see yourself waking up? In the same place as today? Or someplace different? . . . What does it look like? . . . How much enjoyment or satisfaction do you get from where you live?”
+
+Then you can ask about other relevant areas—for example: specific relationships, their job, how they spend their leisure time, their sense of spirituality, their creativity, their physical health, and their household management. Make sure to find out how much or how little enjoyment or satisfaction they get from each. Finally, ask them:
+“What is your general mood like? What do you conclude from having believed that you are … for such a long time?”
+
+Now repeat the same questions for a second scenario, but start out by saying:
+“Now I’d like you to imagine that you’ve believed your new core belief, that you are …. You’ve believed it more and more strongly day after day, week after week, month after month, and year after year for … years. See how well you can picture yourself and your experience in your mind’s eye. Tell me about these same areas, and how much enjoyment and satisfaction you get from each.”
+
+Then ask:
+“What is your general mood like? What do you conclude from having believed that you are … for so many years?”
+
+SUMMARY
+You begin to formulate a hypothesis about clients’ core beliefs whenever they provide data in the form of their automatic thoughts (and associated meanings) and reactions (emotions and behaviors). You hypothesize whether cognitions seem to fall in the helpless, unlovable, or worthless categories. You identify both intermediate and core beliefs in many ways. You can look for the expression of a belief in an automatic thought, provide the conditional clause (“If . . .”) of an assumption and ask the client to complete it, directly elicit a rule, use the downward arrow technique, recognize a common theme among automatic thoughts, ask clients what they think their belief is, or review the client’s belief questionnaire.
+
+REFLEC T ION QUES T IONS
+How can you identify positive core beliefs? Negative core beliefs? How can you explain a maladaptive core belief to a client? How can you motivate the client to change the belief?
+
+PRACTICE EXERCISE
+Imagine that you have a core belief that you are (emotionally) vulnerable. Imagine at least one lifetime experience that might have led to the development or strengthening of this belief and how this belief affects your perception of a particular situation. Write down this imagined conceptualization using Figure 17.2 as a guide.
