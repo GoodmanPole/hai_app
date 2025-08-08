@@ -4,4 +4,6 @@ langchain-anthropic
 chromadb
 pypdf
 python-dotenv
+hnswlib==0.8.0
+
 streamlit
