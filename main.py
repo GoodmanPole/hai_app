@@ -28,9 +28,11 @@ st.image(bot_avatar, width=100)
 st.title("HAI Therapy 🐧")
 st.markdown("**Ask me anything about CBT. I'm here to help.**")
 
-TEXT_FOLDER = "Resources\\Cognitive Therapy Behavior"
-INDEX_FILE = "hnsw_index_Cognitive_Therapy_Behavior.bin"
-METADATA_FILE = "metadata_Cognitive_Therapy_Behavior.pkl"
+# Use relative path to read Resource folder in GitHub repo
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+TEXT_FOLDER = os.path.join(BASE_DIR, "Resources", "Cognitive Therapy Behavior")
+INDEX_FILE = os.path.join(BASE_DIR, "hnsw_index_Cognitive_Therapy_Behavior.bin")
+METADATA_FILE = os.path.join(BASE_DIR, "metadata_Cognitive_Therapy_Behavior.pkl")
 
 # Load documents
 all_texts, file_names = [], []
