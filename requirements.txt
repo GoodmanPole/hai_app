@@ -5,5 +5,7 @@ chromadb
 pypdf
 python-dotenv
 hnswlib==0.8.0
+sentence_transformers
 
 streamlit
+
