@@ -8,10 +8,7 @@ from sentence_transformers import SentenceTransformer
 from pydantic import BaseModel
 from PIL import Image
 import json
-from dotenv import load_dotenv
 
-# Load environment variables from .env file
-load_dotenv()
 
 # API keys from Streamlit secrets
 ANTHROPIC_API_KEY = st.secrets["ANTHROPIC_API_KEY"]
@@ -151,3 +148,4 @@ if st.button("📅 Save All Feedback"):
         save_feedback_log(st.session_state.feedback_log)
         st.success("Feedback saved!")
         st.session_state.feedback_log = []
+
